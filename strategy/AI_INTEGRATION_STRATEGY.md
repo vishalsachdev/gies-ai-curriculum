@@ -613,9 +613,9 @@ The BADM core curriculum provides **strong foundational AI coverage** across thr
 
 | Course | Level | Track | L-C-E | Rationale |
 |--------|-------|-------|-------|-----------|
-| **BADM 315: AI Governance & Responsible Business** | 300 | Human Centric | L→C | Fills critical governance gap; differentiates Gies |
-| **BADM 212: AI Tools for Business Problem Solving** | 200 | AI Basics→Agentic | C | Bridges literacy→competency; hands-on tools focus |
-| **BADM 410: AI Strategy & Competitive Advantage** | 400 | Agentic Systems | C→E | Rename BADM 449; positions AI-first strategy |
+| **[BADM 315: AI Governance & Responsible Business](./courses/BADM_315_AI_Governance.md)** | 300 | Human Centric | L→C | Fills critical governance gap; differentiates Gies |
+| **[BADM 212: AI Tools for Business Problem Solving](./courses/BADM_212_AI_Tools.md)** | 200 | AI Basics→Agentic | C | Bridges literacy→competency; hands-on tools focus |
+| **[BADM 410: AI Strategy & Competitive Advantage](./courses/BADM_410_AI_Strategy.md)** | 400 | Agentic Systems | C→E | Rename BADM 449; positions AI-first strategy |
 
 **Existing Course Redesigns (Low-Effort Updates):**
 - BADM 210 → "AI Fundamentals for Business" (marketing refresh + strengthen AI lab)
