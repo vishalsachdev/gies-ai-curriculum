@@ -1,3 +1,7 @@
+[Home](index.html) | [AI Strategy](AI_INTEGRATION_STRATEGY.html) | [Core Matrix](UNDERGRAD_CORE_AI_MATRIX.html) | [Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html) | [Curriculum Evolution](CURRICULUM_EVOLUTION.html) | [Courses](courses.html)
+
+---
+
 # AI Learning Outcomes Framework
 
 **Framework:** Literacy-Competency-Expertise (L-C-E) | **Target:** BADM Core + CS 105

@@ -1,3 +1,7 @@
+[Home](index.html) | [AI Strategy](AI_INTEGRATION_STRATEGY.html) | [Core Matrix](UNDERGRAD_CORE_AI_MATRIX.html) | [Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html) | [Curriculum Evolution](CURRICULUM_EVOLUTION.html) | [Courses](courses.html)
+
+---
+
 # BADM Core Courses: Syllabi Reference
 
 Direct links to extracted course syllabi (JSON format) for all BADM core courses analyzed in the curriculum integration project.

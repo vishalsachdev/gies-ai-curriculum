@@ -1,3 +1,7 @@
+[Home](index.html) | [AI Strategy](AI_INTEGRATION_STRATEGY.html) | [Core Matrix](UNDERGRAD_CORE_AI_MATRIX.html) | [Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html) | [Curriculum Evolution](CURRICULUM_EVOLUTION.html) | [Courses](courses.html)
+
+---
+
 # Undergraduate Core: AI Integration Matrix
 
 **Scope:** BADM Core Courses | **Target:** Fall 2026 | **Framework:** L-C-E Progression
@@ -15,6 +19,7 @@
 | [BADM 310](courses/310.html) | ❌ Needs AI | Human Centric | L→C |
 | [BADM 320](courses/320.html) | ❌ Needs AI | Agentic Systems | C |
 | [BADM 449](courses/449.html) | ⚠️ Weak | Agentic Systems | C→E |
+| [BADM 350](BADM_350_REDESIGN.md) (proposed) | 🆕 Proposed | Agentic Systems | C→E |
 
 **Key Finding:** 2/7 have AI; 5/7 need enhancement | **Gap:** Limited governance/ethics focus
 
@@ -42,7 +47,7 @@
 | **[BADM 300](courses/300HON.html)** | None | Add AI liability | Human Centric |
 | **[BADM 310](courses/310.html)** | None | Add workforce impact | Human Centric |
 | **[BADM 320](courses/320.html)** | None | Add personalization | Agentic |
-| **[BADM 449](courses/449.html)** | Weak | → BADM 350: AI Strategy | Agentic |
+| **[BADM 449](courses/449.html)** | Weak | → [BADM 350: AI Strategy](BADM_350_REDESIGN.md) | Agentic |
 
 ---
 
@@ -59,7 +64,7 @@
 - [BADM 320](courses/320.html): Marketing + AI (C)
 
 **Year 4 (400-level):**
-- BADM 350 (proposed): AI Strategy (C→E) [Enhanced capstone]
+- [BADM 350](BADM_350_REDESIGN.md) (proposed): AI Strategy (C→E) [Enhanced capstone]
 
 ---
 
@@ -68,7 +73,7 @@
 | Track | Courses | L-C-E |
 |-------|---------|-------|
 | **AI Basics** | [210](courses/210.html) | Literacy |
-| **Agentic Systems** | [211](courses/211.html), 212 (proposed), [275](courses/275.html), [320](courses/320.html), 350 (proposed) | Competency → Expertise |
+| **Agentic Systems** | [211](courses/211.html), 212 (proposed), [275](courses/275.html), [320](courses/320.html), [350](BADM_350_REDESIGN.md) (proposed) | Competency → Expertise |
 | **Human Centric** | [300](courses/300HON.html), [310](courses/310.html), 315 (proposed) | Literacy → Competency |
 
 ---
