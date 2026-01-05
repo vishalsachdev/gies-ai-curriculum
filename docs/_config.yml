@@ -1,0 +1,16 @@
+theme: jekyll-theme-minimal
+
+title: Gies College of Business - AI Curriculum Integration
+description: AI Curriculum Integration Strategy and Learning Outcomes for Undergraduate Business Programs
+
+# GitHub Pages configuration
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# Navigation
+baseurl: /gies-ai-curriculum
+
+# SEO settings
+author: Gies College of Business
+locale: en_US
