@@ -51,7 +51,19 @@ Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) usi
 
 ## Session Log
 
-### 2026-01-05
+### 2026-01-05 (PM) - Documentation Cleanup
+- **Completed:**
+  - Fixed BADM 449 course page formatting (removed duplicate malformed schedule entries from JSON and HTML)
+  - Removed "Impact Projections" section from AI Integration Strategy (streamlined document)
+  - Updated AI Learning Outcomes Framework to clarify BADM 350 as "enhanced existing course" not "proposed new course"
+  - Fixed critical GitHub Pages build failure (removed badm-syllabi submodule causing build errors)
+  - All changes committed and pushed; GitHub Pages builds now succeeding
+- **Next:**
+  - Design Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template
+  - Faculty development planning for Fall 2026
+  - Extend outcomes to other departments (BUS, ACCY, FIN)
+
+### 2026-01-05 (AM) - BADM 350 Synthesis
 - **Completed:**
   - BADM 350 syllabus synthesis across 5 instructor variants (Ghoshal, Gokhale, Pant, Sachdev, Subramanyam)
   - Course renamed: "IT & AI Strategy for Competitive Advantage" -> "Technology and AI Strategy"
@@ -63,10 +75,6 @@ Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) usi
   - Updated CURRICULUM_EVOLUTION.md (replaced BADM 410 proposal with BADM 350 enhancement)
   - UNDERGRAD_CORE_AI_MATRIX.md: BADM 350 marked "Template Ready"
   - 3 commits pushed to GitHub
-- **Next:**
-  - Design Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template
-  - Faculty development planning for Fall 2026
-  - Extend outcomes to other departments (BUS, ACCY, FIN)
 
 ### 2026-01-04
 - **Completed:**
@@ -107,4 +115,4 @@ Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) usi
 
 ---
 
-*Last Updated: January 5, 2026*
+*Last Updated: January 5, 2026 (PM)*
