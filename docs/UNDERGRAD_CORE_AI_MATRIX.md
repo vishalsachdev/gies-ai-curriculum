@@ -1,160 +1,95 @@
-# Undergraduate Core Curriculum: AI Integration Matrix
+# Undergraduate Core: AI Integration Matrix
 
-**Date:** January 4, 2026
-**Scope:** Gies Business Undergraduate Core Requirements
-**Target:** Fall 2026 Implementation
-**Framework:** Literacy-Competency-Expertise (L-C-E) aligned to Campus AI Tracks
+**Scope:** BADM Core Courses | **Target:** Fall 2026 | **Framework:** L-C-E Progression
 
 ---
 
-## BADM Courses in Undergraduate Core (Extracted Syllabi Set)
+## Current State (7 BADM Core Courses)
 
-| Code | Title | Hours | Current AI Status |
-|------|-------|-------|-------------------|
-| [BADM 210](courses/210.html) | Business Analytics I | 3 | ✅ Has AI |
-| [BADM 211](courses/211.html) | Business Analytics II | 3 | ✅ Has AI |
-| [BADM 275](courses/275.html) | Fundamentals of Operations Management | 3 | ❌ No AI |
-| [BADM 300](courses/300HON.html) | The Legal Environment of Business | 3 | ❌ No AI |
-| [BADM 310](courses/310.html) | Management and Organizational Behavior | 3 | ❌ No AI |
-| [BADM 320](courses/320.html) | Principles of Marketing | 3 | ❌ No AI |
-| [BADM 449](courses/449.html) | Business Policy and Strategy | 3 | ⚠️ Case Study |
+| Course | Status | Track | L-C-E |
+|--------|--------|-------|-------|
+| BADM 210 | ✅ Has AI | AI Basics | L→C |
+| BADM 211 | ✅ Has AI | Agentic Systems | C |
+| BADM 275 | ❌ Needs AI | Agentic Systems | C |
+| BADM 300 | ❌ Needs AI | Human Centric | L→C |
+| BADM 310 | ❌ Needs AI | Human Centric | L→C |
+| BADM 320 | ❌ Needs AI | Agentic Systems | C |
+| BADM 449 | ⚠️ Weak | Agentic Systems | C→E |
 
-**Note:** Full undergraduate core includes 18 courses across 8 departments (BUS, ACCY, FIN, CS, CMN, ECON, MATH/STAT, BADM). This matrix focuses on BADM courses with available extracted syllabi.
-
----
-
-## Three Campus AI Tracks (Focus Areas)
-
-| Track | Description | L-C-E Level |
-|-------|-------------|-------------|
-| **Track 1: AI Basics** | Foundational concepts, use cases, responsible use | Literacy |
-| **Track 3: Agentic Systems** | AI agents for business workflows, automation | Competency → Expertise |
-| **Track 4: Human Centric AI** | Ethics, governance, bias, policy, sustainability | Literacy → Competency |
-
-*Note: Track 2 (AI & ML Technologies) is technical/engineering-focused; not primary focus for business core.*
+**Key Finding:** 2/7 have AI; 5/7 need enhancement | **Gap:** Limited governance/ethics focus
 
 ---
 
-## AI Integration Definition
+## Three Campus AI Tracks
 
-A course is **AI-Integrated** if it includes at least one of:
-
-| Type | Description |
-|------|-------------|
-| 🔧 **AI Tool Use** | Students use AI tools (ChatGPT, Copilot, etc.) for coursework |
-| 📚 **AI Topic Module** | 1+ class sessions dedicated to AI concepts |
-| 📝 **AI-Enhanced Assessment** | Assignments that require or evaluate AI use |
-| 💼 **AI Case/Application** | Business cases involving AI decision-making |
-| 📋 **AI Policy** | Clear guidelines on responsible AI use |
+| Track | Focus | Level |
+|-------|-------|-------|
+| **Track 1: AI Basics** | Concepts, use cases, responsible use | Literacy |
+| **Track 3: Agentic Systems** | Automation, workflow integration | Competency→Expertise |
+| **Track 4: Human Centric AI** | Ethics, governance, policy | Literacy→Competency |
 
 ---
 
-## Course-to-AI Track Mapping Matrix
+## Integration Strategy
 
-### Legend
-- **Current Status:** ✅ Has AI | ⚠️ Policy Only | ❌ No AI
-- **L-C-E Target:** L = Literacy | C = Competency | E = Expertise
-- **Primary Track:** Which AI track this course best supports
-- **Integration Priority:** 🔴 High | 🟡 Medium | 🟢 Low
+### High-Priority Courses (Fall 2026)
 
----
-
-### Analytics & Quantitative Core
-
-| Course | Current AI Status | Primary Track | L-C-E Target | Priority | Integration Opportunity |
-|--------|-------------------|---------------|--------------|----------|------------------------|
-| **[BADM 210](courses/210.html)** | ✅ Has AI | AI Basics | L→C | 🟢 | Already has "LLM & AI Lab" (Week 7); ChatGPT as learning objective |
-| **[BADM 211](courses/211.html)** | ✅ Has AI | Agentic Systems | C | 🟢 | Already has "Introduction to AI Tools" (Week 6); Python + ML |
-| **CS 105** | ❌ None | AI Basics | L | 🟡 | Partner with CS to add AI computing concepts |
-| **STAT/MATH** | ❌ None | AI Basics | L | 🟢 | Connect statistics to AI/ML foundations |
-
-**Rationale:** BADM 210/211 are already AI-integrated leaders. Build on this foundation.
+| Course | Current | Enhancement | Track |
+|--------|---------|-------------|-------|
+| **BADM 210** | Has AI lab | Strengthen + rename | AI Basics |
+| **BADM 211** | Has AI tools | Emphasize ML | Agentic |
+| **BADM 275** | None | Add supply chain AI | Agentic |
+| **BADM 300** | None | Add AI liability | Human Centric |
+| **BADM 310** | None | Add workforce impact | Human Centric |
+| **BADM 320** | None | Add personalization | Agentic |
+| **BADM 349** | Weak | → BADM 350: AI Strategy | Agentic |
 
 ---
 
-### Functional/Business Core (BADM)
+## L-C-E Progression (Entire BADM Core)
 
-| Course | Current AI Status | Primary Track | L-C-E Target | Priority | Integration Opportunity |
-|--------|-------------------|---------------|--------------|----------|------------------------|
-| **[BADM 310](courses/310.html)** | ❌ None | Human Centric | L→C | 🔴 | AI impact on workforce; human-AI collaboration |
-| **[BADM 320](courses/320.html)** | ❌ None | Agentic Systems | C | 🔴 | AI marketing tools; personalization; analytics |
-| **[BADM 275](courses/275.html)** | ❌ None | Agentic Systems | C | 🔴 | AI in supply chain; demand forecasting; automation |
+**Year 2 (200-level):**
+- BADM 210: AI Fundamentals (L→C)
+- BADM 211: Machine Learning (C)
+- BADM 275: Operations + AI (C)
 
-**Rationale:** High-impact functional courses where AI is transforming business practice.
+**Year 3 (300-level):**
+- BADM 300: Legal + AI (L→C)
+- BADM 310: Management + AI (L→C)
+- BADM 320: Marketing + AI (C)
 
----
-
-### Strategy & Law Core (BADM)
-
-| Course | Current AI Status | Primary Track | L-C-E Target | Priority | Integration Opportunity |
-|--------|-------------------|---------------|--------------|----------|------------------------|
-| **[BADM 300](courses/300HON.html)** | ❌ None | Human Centric | L→C | 🔴 | AI law; IP, liability, contracts with AI; regulation |
-| **[BADM 449](courses/449.html)** | ⚠️ Case Study | Agentic Systems | C→E | 🔴 | AI strategy; competitive advantage through AI; capstone |
-
-**Rationale:** Legal and strategic courses are critical for responsible AI leadership.
+**Year 4 (400-level):**
+- BADM 350: AI Strategy (C→E) [Enhanced capstone]
 
 ---
 
-## Priority Summary
+## Track Coverage
 
-### 🔴 High Priority (Fall 2026 Target)
-
-| Course | Integration Type | Track | Key Action |
-|--------|-----------------|-------|------------|
-| [BADM 310](courses/310.html) | Add Module | Human Centric | AI & workforce; human-AI collaboration |
-| [BADM 320](courses/320.html) | Add Tools | Agentic Systems | AI marketing tools workshop |
-| [BADM 275](courses/275.html) | Add Module + Tools | Agentic Systems | AI in supply chain operations |
-| [BADM 300](courses/300HON.html) | Add Module | Human Centric | AI legal framework; liability, IP |
-| [BADM 449](courses/449.html) | Add Case | Agentic Systems | AI strategy capstone case |
-
-### 🟢 Already Integrated
-
-| Course | Current State | Enhancement |
-|--------|--------------|-------------|
-| [BADM 210](courses/210.html) | Week 7 AI Lab; ChatGPT learning objective | Standardize across sections |
-| [BADM 211](courses/211.html) | Week 6 AI Tools; Python + ML | Connect to agentic workflows |
+| Track | Courses | L-C-E |
+|-------|---------|-------|
+| **AI Basics** | 210 | Literacy |
+| **Agentic Systems** | 211, 212, 275, 320, 350 | Competency → Expertise |
+| **Human Centric** | 300, 310, 315 | Literacy → Competency |
 
 ---
 
-## L-C-E Progression Across BADM Core Curriculum
+## Implementation Impact
 
-```
-Year 2 (200-level): LITERACY → COMPETENCY
-├── BADM 210: AI Fundamentals + Tools ✅
-├── BADM 211: AI Tools + Python/ML ✅
-└── BADM 275: AI in Operations
-
-Year 3 (300-level): COMPETENCY
-├── BADM 310: Human-AI Collaboration
-├── BADM 320: AI Marketing Applications
-└── BADM 300: AI Legal Framework
-
-Year 4 (400-level): COMPETENCY → EXPERTISE
-└── BADM 449: AI Strategy Capstone
-```
+**Students Impacted (Fall 2026):**
+- ✅ 100% of BADM core → at least 1 AI course
+- ✅ ~2,000+ → AI Strategy capstone (BADM 350)
+- ✅ ~1,500+ → New governance/tools courses
+- ✅ ~3,500+ → Total with course enhancements
 
 ---
 
-## Track Coverage Summary (BADM Core)
+## Success Metrics
 
-| Track | BADM Courses Mapped | L-C-E Focus |
-|-------|----------------|-------------|
-| **AI Basics** | BADM 210 | Literacy |
-| **Agentic Systems** | BADM 211, 275, 320, 449 | Competency → Expertise |
-| **Human Centric AI** | BADM 300, 310 | Literacy → Competency |
-
----
-
-## Next Steps
-
-1. **Validate with Faculty:** Review mappings with course instructors
-2. **Develop Modules:** Create plug-in AI modules for high-priority courses
-3. **Training:** Faculty development workshops on AI integration
-4. **Assessment:** Add AI competency questions to course assessments
-5. **Pilot:** Test integrations in Spring 2026 before Fall 2026 launch
+- ✅ All 7 core courses have clear AI integration
+- ✅ L-C-E progression is coherent across program
+- ✅ Students can articulate AI competencies by graduation
+- ✅ Employers recognize AI readiness in graduates
 
 ---
 
-*Created: January 4, 2026*
-*For: Gies AI Curriculum Task Force*
-*Source: Official Core Curriculum + Extracted Syllabi Analysis*
+*For course syllabus details, see `/courses/` and `SAMPLE_AI_LEARNING_OUTCOMES.md`*

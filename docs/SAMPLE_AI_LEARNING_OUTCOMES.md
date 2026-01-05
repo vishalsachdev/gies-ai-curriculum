@@ -1,304 +1,173 @@
-# Sample AI Learning Outcomes (L-C-E Format)
+# AI Learning Outcomes Framework
 
-**Date:** January 4, 2026
-**Framework:** Literacy-Competency-Expertise (UNESCO-adapted)
-**Tracks:** AI Basics | Agentic Systems | Human Centric AI
-**Target:** Gies Undergraduate Core Curriculum
+**Framework:** Literacy-Competency-Expertise (L-C-E) | **Target:** BADM Core + CS 105
 
 ---
 
-## Learning Outcome Structure
+## Overview
 
-Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
+Students progress through three levels:
 
-| L-C-E Level | Bloom's Level | Action Verbs |
-|-------------|---------------|--------------|
-| **Literacy** | Remember, Understand | Define, Describe, Explain, Identify, Recognize |
-| **Competency** | Apply, Analyze | Apply, Use, Analyze, Interpret, Evaluate, Design |
-| **Expertise** | Evaluate, Create | Create, Develop, Lead, Formulate, Innovate |
+| Level | Definition | Action Verbs |
+|-------|-----------|--------------|
+| **Literacy** | Understand concepts, limitations, applications | Define, Explain, Identify, Recognize |
+| **Competency** | Apply skills to solve business problems | Apply, Use, Design, Evaluate, Analyze |
+| **Expertise** | Lead initiatives, develop solutions | Create, Develop, Lead, Formulate |
 
 ---
 
 ## Track 1: AI Basics/Fundamentals
 
-### Literacy Level Outcomes
+**Literacy:**
+- Define key AI concepts (ML, LLMs, neural networks)
+- Explain how AI systems learn and generate outputs
+- Identify 3+ business applications (marketing, finance, operations)
+- Recognize AI limitations and error potential
 
-**General AI Literacy (all students should achieve):**
+**Competency:**
+- Apply AI tools to analyze business data
+- Use ChatGPT/Gemini for business communications
+- Evaluate AI outputs (bias, errors, hallucinations)
+- Select appropriate AI tools for problems
 
-1. **Define** key AI concepts including machine learning, generative AI, large language models, and neural networks.
-
-2. **Explain** how AI systems learn from data and generate outputs.
-
-3. **Identify** at least three applications of AI in business contexts (marketing, finance, operations, accounting).
-
-4. **Recognize** the capabilities and limitations of current AI tools, including potential for errors, hallucinations, and bias.
-
-5. **Describe** the difference between narrow AI (task-specific) and general-purpose AI systems.
-
-**Course Mapping:**
-- BADM 210: Outcomes 1, 2, 5
-
----
-
-### Competency Level Outcomes
-
-**Applied AI Skills:**
-
-1. **Apply** appropriate AI tools to complete business analysis tasks, including data summarization, pattern recognition, and insight generation.
-
-2. **Use** generative AI tools effectively for drafting, editing, and refining business communications while maintaining authorial voice.
-
-3. **Evaluate** AI-generated outputs critically, identifying errors, biases, and areas requiring human judgment.
-
-4. **Select** the right AI tool for specific business problems based on task requirements and tool capabilities.
-
-5. **Interpret** AI recommendations within business context, distinguishing between correlation and causation.
-
-**Course Mapping (BADM Core):**
-- BADM 210: Outcomes 1, 3, 5
-- BADM 211: Outcomes 1, 3, 4, 5
-- BADM 320: Outcomes 1, 2, 4
+**Courses:** BADM 210, 211, 320
 
 ---
 
 ## Track 3: Agentic Systems & Workflows
 
-### Literacy Level Outcomes
+**Literacy:**
+- Define AI agents and their purpose
+- Explain how AI automates workflows
+- Identify automation opportunities
 
-1. **Define** what AI agents are and how they differ from simple AI tools.
+**Competency:**
+- Design AI-enhanced workflows (automation + human judgment)
+- Apply AI agents to multi-step business tasks
+- Integrate AI into existing processes
+- Analyze automation vs. human-in-the-loop trade-offs
 
-2. **Explain** how AI can automate repetitive business workflows and enhance decision-making.
+**Expertise:**
+- Develop custom AI solutions (APIs, low-code)
+- Lead cross-functional AI projects
+- Create balanced automation strategies
+- Formulate AI adoption strategies
 
-3. **Identify** opportunities in business processes where AI agents could add value.
-
-**Course Mapping (BADM Core):**
-- BADM 275: Outcomes 1, 2, 3
-- BADM 211: Outcomes 1, 2
-
----
-
-### Competency Level Outcomes
-
-1. **Design** AI-enhanced workflows that combine human judgment with AI automation for business processes.
-
-2. **Apply** AI agents to complete multi-step business tasks including research, analysis, and reporting.
-
-3. **Integrate** AI tools into existing business processes to improve efficiency and accuracy.
-
-4. **Analyze** trade-offs between full automation, human-in-the-loop, and human-led approaches for business decisions.
-
-5. **Evaluate** AI agent outputs for accuracy, relevance, and alignment with business objectives.
-
-**Course Mapping (BADM Core):**
-- BADM 211: Outcomes 1, 2, 3
-- BADM 275: Outcomes 1, 2, 3, 4
-- BADM 320: Outcomes 2, 3
-
----
-
-### Expertise Level Outcomes
-
-1. **Develop** custom AI solutions for complex business problems using prompt engineering, API integration, or low-code platforms.
-
-2. **Lead** cross-functional teams in AI implementation projects from conception to deployment.
-
-3. **Create** AI-enabled business processes that balance automation efficiency with human oversight needs.
-
-4. **Formulate** AI adoption strategies for organizations considering competitive advantage, risk, and change management.
-
-**Course Mapping (BADM Core):**
-- BADM 449: Outcomes 2, 4
+**Courses:** BADM 211, 212, 275, 320, 350
 
 ---
 
 ## Track 4: Human Centric AI
 
-### Literacy Level Outcomes
+**Literacy:**
+- Identify ethical AI concerns (bias, fairness, privacy)
+- Explain why responsible AI needs oversight
+- Recognize potential AI harms
+- Describe data privacy importance
+- Articulate personal responsibility in AI use
 
-**AI Ethics & Responsibility:**
+**Competency:**
+- Apply ethical frameworks to AI decisions
+- Analyze AI systems for bias/discrimination
+- Evaluate organizational AI policies
+- Assess AI impact on workforce
+- Navigate legal/regulatory requirements
 
-1. **Identify** ethical concerns in AI systems including bias, fairness, privacy, and transparency.
+**Expertise:**
+- Lead organizational AI ethics discussions
+- Develop AI governance frameworks
+- Formulate AI policy positions
+- Create workforce transition strategies
 
-2. **Explain** why responsible AI use requires human oversight, accountability, and governance.
-
-3. **Recognize** potential harms from AI misuse including discrimination, misinformation, and job displacement.
-
-4. **Describe** the importance of data privacy and security when using AI tools with sensitive information.
-
-5. **Articulate** personal and professional responsibilities when using AI in academic and business contexts.
-
-**Course Mapping (BADM Core):**
-- BADM 310: Outcomes 1, 2, 3
-
----
-
-### Competency Level Outcomes
-
-**Applied Ethics & Governance:**
-
-1. **Apply** ethical frameworks to evaluate AI implementations in business contexts.
-
-2. **Analyze** AI systems for potential bias, discrimination, and unintended consequences.
-
-3. **Evaluate** organizational AI policies and governance structures for adequacy and alignment with values.
-
-4. **Assess** the impact of AI on workforce dynamics, job design, and human-machine collaboration.
-
-5. **Navigate** legal and regulatory requirements for AI use including intellectual property, liability, and compliance.
-
-**Course Mapping (BADM Core):**
-- BADM 300: Outcomes 3, 5
-- BADM 310: Outcomes 1, 4
+**Courses:** BADM 300, 310, 315
 
 ---
 
-### Expertise Level Outcomes
+## Course-Specific Outcomes
 
-1. **Lead** organizational discussions about ethical AI adoption and responsible innovation.
+### BADM 210: AI Fundamentals for Business
+- Explain how LLMs work
+- Apply AI to data analysis
+- Evaluate AI outputs critically
+- Use ChatGPT for business tasks
 
-2. **Develop** AI governance frameworks including policies, oversight mechanisms, and accountability structures.
+### BADM 211: Machine Learning for Business
+- Integrate AI into Python workflows
+- Apply ML to classification/prediction
+- Design pipelines combining AI + human validation
+- Evaluate ML approach trade-offs
 
-3. **Formulate** positions on AI policy issues relevant to business and society.
+### BADM 212: AI Tools for Business Problem Solving
+- Evaluate and select AI tools
+- Engineer effective prompts
+- Integrate APIs into workflows
+- Design human-AI collaboration
+- Monitor AI quality
 
-4. **Create** strategies for managing AI-related workforce transitions with attention to equity and inclusion.
+### BADM 275: Operations Management + AI
+- Explain AI in supply chain
+- Apply AI to operations analysis
+- Evaluate automation opportunities
+- Design human-AI operations workflows
 
-**Course Mapping (BADM Core):**
-- BADM 449: Outcome 1
+### BADM 300: Legal Environment + AI
+- Explain emerging AI legal frameworks
+- Analyze regulatory considerations
+- Evaluate AI-related legal risks
+- Apply legal principles to AI contracts
 
----
+### BADM 310: Management & Org Behavior + AI
+- Analyze AI's impact on job roles
+- Evaluate AI impact on workforce trust
+- Assess management strategies for human-AI teams
+- Identify ethical hiring/performance considerations
 
-## Course-Specific Learning Outcome Examples (BADM Core)
+### BADM 315: AI Governance & Responsible Business
+- Identify governance concerns in AI
+- Apply ethical frameworks
+- Evaluate organizational policies
+- Design accountability mechanisms
 
-### [BADM 210: Business Analytics I](courses/210.html)
-*L-C-E Target: Literacy → Competency (AI Basics + Agentic Systems)*
+### BADM 320: Marketing + AI
+- Apply AI for segmentation/personalization
+- Analyze AI-driven advertising
+- Evaluate ethical implications (privacy)
+- Use generative AI for content
 
-Upon completion of this course, students will be able to:
-1. **Explain** how generative AI and large language models process and generate text.
-2. **Apply** AI tools to assist with data exploration, pattern recognition, and hypothesis generation.
-3. **Evaluate** AI-generated analysis critically, identifying limitations and potential errors.
-4. **Use** ChatGPT or similar tools to accelerate data interpretation and insight communication.
+### BADM 350: IT & AI Strategy
+- Analyze how AI creates competitive advantage
+- Assess organizational AI readiness
+- Design AI transformation strategies
+- Communicate strategy to executives
 
-*Note: Already has "Explore the power of generative artificial intelligence such as ChatGPT" as learning objective.*
-
----
-
-### [BADM 211: Business Analytics II](courses/211.html)
-*L-C-E Target: Competency (Agentic Systems)*
-
-Upon completion of this course, students will be able to:
-1. **Integrate** AI tools into Python-based data analysis workflows.
-2. **Apply** machine learning models to solve classification and prediction problems.
-3. **Design** analysis pipelines that combine AI automation with human validation.
-4. **Evaluate** trade-offs between different AI/ML approaches for business problems.
-
-*Note: Already has "Introduction to AI Tools" as Week 6 topic.*
-
----
-
-### [BADM 310: Management and Organizational Behavior](courses/310.html)
-*L-C-E Target: Literacy → Competency (Human Centric AI)*
-
-Upon completion of this course, students will be able to:
-1. **Analyze** how AI is changing job roles, skills requirements, and workforce composition.
-2. **Evaluate** the impact of AI on employee motivation, trust, and organizational culture.
-3. **Assess** management strategies for effective human-AI collaboration in teams.
-4. **Identify** ethical considerations in using AI for hiring, performance management, and decision-making.
-
----
-
-### [BADM 320: Principles of Marketing](courses/320.html)
-*L-C-E Target: Competency (Agentic Systems)*
-
-Upon completion of this course, students will be able to:
-1. **Apply** AI marketing tools for customer segmentation, personalization, and campaign optimization.
-2. **Analyze** how AI enables targeted advertising and recommendation systems.
-3. **Evaluate** ethical implications of AI-driven marketing including privacy and manipulation concerns.
-4. **Use** generative AI to create marketing content while maintaining brand voice and authenticity.
-
----
-
-### [BADM 275: Fundamentals of Operations Management](courses/275.html)
-*L-C-E Target: Competency (Agentic Systems)*
-
-Upon completion of this course, students will be able to:
-1. **Explain** how AI is transforming supply chain management, demand forecasting, and inventory optimization.
-2. **Apply** AI tools to analyze operations data and identify efficiency improvements.
-3. **Evaluate** automation opportunities in business processes using AI feasibility assessment.
-4. **Design** human-AI workflows for quality control and exception handling in operations.
+### CS 105: Intro Computing: Non-Tech
+- Explain algorithms' relation to AI/ML
+- Identify automation applications
+- Describe data's role in AI
+- Recognize AI's impact on decision-making
 
 ---
 
-### [BADM 300: The Legal Environment of Business](courses/300HON.html)
-*L-C-E Target: Literacy → Competency (Human Centric AI)*
+## Program-Level Competencies
 
-Upon completion of this course, students will be able to:
-1. **Explain** emerging legal frameworks governing AI use including liability, intellectual property, and privacy.
-2. **Analyze** contractual and regulatory considerations when deploying AI in business.
-3. **Evaluate** AI-related risks including bias claims, data breaches, and algorithmic discrimination.
-4. **Apply** legal principles to assess AI vendor agreements and usage policies.
+**All BADM Graduates Will:**
 
----
+**Literacy:** Explain AI concepts, recognize limitations, identify opportunities
 
-### [BADM 449: Business Policy and Strategy](courses/449.html)
-*L-C-E Target: Competency → Expertise (Agentic Systems)*
+**Competency:** Apply AI tools, evaluate outputs, navigate responsible AI
 
-Upon completion of this course, students will be able to:
-1. **Analyze** how AI creates and disrupts competitive advantage in industries.
-2. **Formulate** AI adoption strategies aligned with organizational capabilities and competitive positioning.
-3. **Evaluate** case studies of successful and failed AI implementations for strategic lessons.
-4. **Lead** strategic analysis incorporating AI as a transformative force in business models.
+**Expertise:** Develop AI solutions, lead AI initiatives, formulate AI strategy
 
 ---
 
-## Program-Level AI Competency Statement (BADM Core Focus)
+## Assessment Methods
 
-**Upon completion of the BADM core curriculum, business undergraduates will be able to:**
-
-### AI Literacy (All Graduates)
-- Explain fundamental AI concepts and their business applications
-- Recognize AI capabilities, limitations, and ethical considerations
-- Identify opportunities for AI to enhance business processes
-
-### AI Competency (All Graduates)
-- Apply AI tools effectively to solve business problems in their discipline
-- Evaluate AI outputs critically with appropriate human judgment
-- Navigate responsible AI use in professional contexts
-
-### AI Expertise (Selected Graduates via Electives/Concentrations)
-- Develop custom AI solutions for complex business challenges
-- Lead organizational AI transformation initiatives
-- Formulate AI strategy and governance frameworks
+| Level | Methods |
+|-------|---------|
+| **Literacy** | Quizzes, reflection papers, discussions |
+| **Competency** | Projects, case analyses, tool assignments |
+| **Expertise** | Capstone projects, strategy recommendations |
 
 ---
 
-## Assessment Alignment
-
-Each learning outcome should be assessed through:
-
-| Outcome Level | Assessment Types |
-|---------------|------------------|
-| **Literacy** | Quizzes, reflection papers, concept maps, discussion participation |
-| **Competency** | Applied projects, case analyses, tool-based assignments, presentations |
-| **Expertise** | Capstone projects, strategy recommendations, implementation plans |
-
----
-
-## Implementation Notes
-
-1. **Modular Design:** Outcomes are designed as plug-in modules that can be added to existing courses without major restructuring.
-
-2. **Scaffolding:** Literacy outcomes in Year 1-2 courses build foundation for Competency outcomes in Year 3-4 courses.
-
-3. **Assessment Integration:** Add 1-2 AI-focused assessment items per course rather than replacing existing assessments.
-
-4. **Faculty Support:** Each outcome requires faculty development on the specific AI tools and concepts involved.
-
-5. **Continuous Update:** AI is rapidly evolving; outcomes should be reviewed annually for currency.
-
----
-
-*Created: January 4, 2026*
-*For: Gies AI Curriculum Task Force*
-*Framework: Literacy-Competency-Expertise (UNESCO-adapted)*
-*Scope: BADM core courses with available extracted syllabi (n=7)*
-*Note: Full undergraduate core includes 18 courses across 8 departments. Outcomes for other departments should be developed with corresponding course syllabi.*
+*Outcomes are modular, designed to enhance existing courses without major restructuring.*
