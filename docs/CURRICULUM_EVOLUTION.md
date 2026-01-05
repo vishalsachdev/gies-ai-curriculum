@@ -25,31 +25,38 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 ## 📊 Current State Analysis
 
 ### L-C-E Distribution
-| Level | Count | Courses |
-|-------|-------|---------|
-| **Literacy** | 3 | BADM 210, BADM 310, BADM 300 |
-| **Competency** | 6 | BADM 210, BADM 211, BADM 275, BADM 310, BADM 320, BADM 300, BADM 449 |
-| **Expertise** | 1 | BADM 449 |
 
-**Gap:** Only 1 expertise-level course for 4,500+ undergraduates annually.
+| Level | Count | Courses |
+|:-|:-|:-|
+| Literacy | 3 | BADM 210, BADM 310, BADM 300 |
+| Competency | 6 | BADM 210, BADM 211, BADM 275, BADM 310, BADM 320, BADM 300, BADM 449 |
+| Expertise | 1 | BADM 449 |
+
+**⚠️ Gap:** Only 1 expertise-level course for 4,500+ undergraduates annually.
+
+---
 
 ### Track Distribution
-| Track | Count | Courses |
-|-------|-------|---------|
-| **AI Basics** | 2 | BADM 210, (no others) |
-| **Agentic Systems** | 4 | BADM 211, BADM 275, BADM 320, BADM 449 |
-| **Human Centric AI** | 2 | BADM 300, BADM 310 |
 
-**Gap:** Human Centric AI underrepresented relative to strategic importance.
+| Track | Count | Courses |
+|:-|:-|:-|
+| AI Basics | 2 | BADM 210, (no others) |
+| Agentic Systems | 4 | BADM 211, BADM 275, BADM 320, BADM 449 |
+| Human Centric AI | 2 | BADM 300, BADM 310 |
+
+**⚠️ Gap:** Human Centric AI underrepresented relative to strategic importance.
+
+---
 
 ### Curricular Level Distribution
-| Level | Count | Courses |
-|-------|-------|---------|
-| **200-level (Foundation)** | 3 | BADM 210, BADM 211, BADM 275 |
-| **300-level (Intermediate)** | 3 | BADM 310, BADM 320, BADM 300 |
-| **400-level (Advanced)** | 1 | BADM 449 |
 
-**Gap:** Thin advanced course offerings; expertise pathway unclear.
+| Level | Count | Courses |
+|:-|:-|:-|
+| 200-level (Foundation) | 3 | BADM 210, BADM 211, BADM 275 |
+| 300-level (Intermediate) | 3 | BADM 310, BADM 320, BADM 300 |
+| 400-level (Advanced) | 1 | BADM 449 |
+
+**⚠️ Gap:** Thin advanced course offerings; expertise pathway unclear.
 
 ---
 
