@@ -45,28 +45,18 @@
     max-width: 100%;
   }
 
-  /* Make navigation header sticky - target ONLY the very first paragraph (navigation) */
-  section > p:first-child {
-    position: sticky;
+  /* Make navigation header sticky - target the first table (navigation) */
+  section > table:first-child {
+    position: sticky !important;
     top: 0;
     background-color: #ffffff;
     padding: 12px 20px !important;
     margin: 0 0 20px 0 !important;
-    border-bottom: 2px solid #0366d6;
+    border-bottom: 2px solid #0366d6 !important;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     z-index: 1000;
     font-weight: 500;
     line-height: 1.6;
-  }
-
-  /* Ensure other paragraphs are NOT sticky */
-  section p {
-    position: static !important;
-  }
-
-  /* Re-apply sticky only to first-child navigation */
-  section > p:first-child {
-    position: sticky !important;
   }
 
   /* Improve heading styles */
