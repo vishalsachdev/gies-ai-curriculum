@@ -1,80 +1,84 @@
 # BADM 350 Strategic Analysis: The Case for Returning to Core Curriculum
 
-**Date:** January 4, 2026
-**Analysis:** Ghoshal Spring 2025 Syllabus vs. Proposed New Courses
+**Date:** January 5, 2026
+**Analysis:** Synthesis of 5 Instructor Syllabi (Ghoshal, Gokhale, Pant, Sachdev, Subramanyam)
 **Question:** Can BADM 350 replace or enhance one of the Tier 1 recommendations (BADM 315, 212, or 410)?
 
 ---
 
 ## Executive Summary
 
-**Finding:** BADM 350 (IT for Networked Organizations) **substantially overlaps with BADM 410 (AI Strategy & Competitive Advantage)** but with an important difference in framing: **350 starts from IT strategy first, then layers in AI**, while **410 would start from AI strategy first, then layer in IT/business context**.
+**Finding:** A synthesis of **5 instructor variants** of BADM 350 reveals **high faculty consensus** (80%+) on core topics and assessment structure. BADM 350 **substantially overlaps with BADM 410 (AI Strategy & Competitive Advantage)** but with an important difference in framing: **350 starts from technology strategy first, then layers in AI**, while **410 would start from AI strategy first, then layer in technology/business context**.
 
 **Recommendation:** Rather than creating BADM 410 as a new course, **restore BADM 350 to the core curriculum and enhance it with AI emphasis**. This approach:
-- Leverages existing course with proven faculty expertise (Ghoshal, Gokhale)
+- Leverages existing course with proven faculty expertise (5 active instructors)
+- High consensus already exists on topic coverage (57 topics analyzed, ~35% at high consensus)
 - Covers 80%+ of BADM 410 content
 - Adds institutional knowledge of case-based learning (Netflix, Platforms, Disruption)
 - Saves curriculum development resources
-- Maintains continuity with IT strategy foundations
+- Maintains continuity with technology strategy foundations
 
-**Strategic Move:** Rename BADM 350 → **BADM 350: IT & AI Strategy for Competitive Advantage** (emphasizing both, not AI-only)
+**Strategic Move:** Rename BADM 350 → **BADM 350: Technology and AI Strategy** (concise, strategic focus)
 
 ---
 
 ## Part 1: BADM 350 Course Analysis
 
-### Current State (Ghoshal, Spring 2025)
+### Synthesis Findings (5 Instructors Analyzed)
 
-**Course Title:** IT for Networked Organizations
+**Instructors:** Ghoshal (sp25), Gokhale (fa25), Pant (fa25), Sachdev (wi25), Subramanyam (sp25)
 
-**Learning Objectives:**
-1. Explain terminology in business information systems
-2. Use Tableau for data visualization
-3. Describe how IT systems are/will be used in business (telecom, e-commerce, data warehousing, future directions)
-4. Experience systems development in team setting
-5. Identify organizational issues from IT development/implementation
-6. Understand social/ethical issues in IT
+**Current Title:** IT for Networked Organizations
 
-**Course Structure:**
+**Synthesized Learning Objectives (L-C-E Balanced):**
+1. **Literacy:** Explain how technology and AI create sustainable competitive advantage using established strategic frameworks
+2. **Literacy:** Identify opportunities for technology-driven disruption and platform-based business models
+3. **Competency:** Analyze real companies' AI and technology strategies, evaluating positioning, risks, and readiness
+4. **Competency:** Apply data visualization and business intelligence tools to support strategic decisions
+5. **Competency:** Evaluate emerging technologies for strategic fit within organizational contexts
+6. **Expertise:** Design comprehensive AI transformation roadmaps addressing feasibility, readiness, and dynamics
+7. **Expertise:** Communicate technology strategy recommendations to executive leadership
+
+**Course Structure (Consensus):**
 - **Credits:** 3
 - **Level:** 300 (Junior/Senior)
-- **Assessments:** 55% exams, 20% assignments, 15% team project, 5% quizzes, 5% participation/share & tell
-- **Teaching Method:** Case-based discussions + hands-on tools (Tableau) + team project
+- **Assessments:** 45% exams, 20% team project, 20% assignments, 15% participation
+- **Teaching Method:** Case-based discussions + hands-on tools (Tableau) + team capstone
 
-### Content Topics (13 weeks)
+### Content Topics (16-Week Schedule)
 
-| Week | Topic | Emerging Tech Focus | Strategy Focus | Governance/Ethics Focus |
-|------|-------|-------------------|-----------------|------------------------|
-| 0 | Introduction & Strategy, IT Markets | | ✅ | |
-| 1 | Technology & Modern Enterprise | | ✅ | |
-| 2-3 | E-Commerce, Netflix Case | ✅ (Disruption) | ✅ | |
-| 4-5 | Platforms, Two-Sided Markets | ✅ (Platform models) | ✅ | |
-| 6-7 | Enterprise Systems, Cloud Computing | | ✅ | |
-| 8-9 | Data Warehousing, BI, Tableau | | | |
-| 10-12 | Online Advertising, SEO, Analytics | | | |
-| 13 | IT Security, Disaster Recovery | | | ✅ |
-| 14 | IT Sustainability, Governance | | | ✅ |
-| 15 | Emerging Tech (Platforms, Social Media, Peer Economy) | ✅ | ✅ | |
-| 16 | **Artificial Intelligence** | ✅✅✅ | ✅ | |
-| 17 | Quantum Computing | ✅ | | |
+| Week | Topic | Consensus Level |
+|------|-------|-----------------|
+| 1 | Course Introduction & Strategy Foundations | 🟢 High |
+| 2 | Technology and Competitive Advantage | 🟢 High |
+| 3 | Technology Disruption: Netflix Case Study | 🟢 High |
+| 4 | Digital Economics & Cost Dynamics | 🟢 High |
+| 5 | Platform Business Models & Network Effects | 🟢 High |
+| 6 | E-commerce & Digital Markets | 🟢 High |
+| 7 | Data and Competitive Advantage | 🟢 High |
+| 8 | Data Visualization for Executive Decision-Making | 🟢 High |
+| 9 | Business Intelligence & Data Analytics | 🟢 High |
+| 10 | Enterprise Systems & Cloud Computing | 🟡 Medium |
+| 11 | Strategic Integration & Midterm Exam | 🟢 High |
+| 12 | IT Governance, Security & Ethics | 🟡 Medium |
+| **13** | **AI Fundamentals & Competitive Advantage** | ⭐ NEW |
+| **14** | **AI Case Studies: Amazon, OpenAI Business Models** | ⭐ NEW |
+| **15** | **AI as Strategic Disruptor: Organizational Transformation** | ⭐ NEW |
+| 16 | Capstone Project Presentations | 🟢 High |
 
-**Key Strengths:**
-- ✅ **Strategic lens** on how IT creates competitive advantage
-- ✅ **Emerging technologies** coverage (AI, platforms, peer economy)
-- ✅ **Disruption and business model innovation** (Netflix, Airbnb, platforms)
-- ✅ **Real-world case studies** with business impact
-- ✅ **Hands-on skills** (Tableau)
-- ✅ **Organizational transformation** focus
-- ✅ **Ethics and governance** components
-- ✅ **Proven faculty** (Ghoshal consistently teaches this, plus Gokhale variation exists)
-- ✅ **Team project** capstone with presentations
+**Key Strengths (Faculty Consensus):**
+- ✅ **Strategic lens** on how technology creates competitive advantage (5/5 instructors)
+- ✅ **Disruption and business model innovation** (Netflix, platforms) (5/5 instructors)
+- ✅ **Real-world case studies** with business impact (5/5 instructors)
+- ✅ **Hands-on skills** with Tableau (5/5 instructors)
+- ✅ **Team project** capstone with presentations (5/5 instructors)
+- ✅ **Governance and ethics** components (4/5 instructors)
+- ✅ **Balanced assessment structure** (consensus on 45/20/20/15 weights)
 
-**Gaps vs. BADM 410:**
-- AI module is present but not deep (1 week slides only)
-- No focus on AI-specific competitive advantage (vs. general IT strategy)
-- No attention to organizational readiness for AI transformation
-- Limited coverage of AI business model innovation
-- Doesn't focus on AI as primary strategic driver (IT is broader category)
+**Gaps Identified (Redesign Required):**
+- AI module: Currently 1 week (1/5 instructors have deep coverage) → Expand to 3 weeks
+- AI-specific case studies: Currently 0-1 → Add Tesla, Amazon AI, OpenAI
+- AI transformation project option: Currently not offered → Add as alternative track
 
 ---
 
@@ -175,7 +179,7 @@ Students need both: tools literacy AND strategic understanding.
 
 **Instead of creating BADM 410, enhance BADM 350 to become:**
 
-**BADM 350: IT & AI Strategy for Competitive Advantage**
+**BADM 350: Technology and AI Strategy**
 
 **Changes Required:**
 1. **Rename course** (add "AI" to title for recruitment signal)
@@ -332,7 +336,7 @@ Students need both: tools literacy AND strategic understanding.
 - [ ] Update course packet with 3-4 AI case studies
 - [ ] Refresh slide deck with AI examples (ChatGPT, LLMs, AI disruption)
 - [ ] Align learning objectives to include AI emphasis
-- [ ] Update syllabus title: "IT & AI Strategy for Competitive Advantage"
+- [ ] Update syllabus title: "Technology and AI Strategy"
 
 **Timeline:**
 - Week 1-2 (Jan): Gather AI cases (Tesla, Amazon, OpenAI, etc.)
@@ -380,7 +384,7 @@ Students need both: tools literacy AND strategic understanding.
 ### Risk 4: "Students will think 350 is outdated technology course"
 
 **Response:**
-- Rename to "IT & AI Strategy for Competitive Advantage" (signals AI focus)
+- Rename to "Technology and AI Strategy" (signals AI focus)
 - Case studies feature cutting-edge companies (Tesla, Amazon, OpenAI, Airbnb)
 - Emerging tech coverage (AI, platforms, quantum) keeps curriculum current
 - Market: 40% of prospective students expect AI in curriculum — this delivers
