@@ -209,6 +209,24 @@ strategy/
 
 ## Session Log
 
+### 2026-01-04 (Session 3)
+- **Completed:**
+  - Fixed BADM 275 course topics extraction (12 topics now properly mapped from schedule)
+  - Extracted CS 105 from Siebel School website (Python fundamentals, algorithms, data)
+  - Generated HTML course pages for all 9 core courses (8 BADM + 1 CS 105)
+  - Updated UNDERGRAD_CORE_AI_MATRIX.md with course extraction stats and CS 105 analysis
+  - Updated SAMPLE_AI_LEARNING_OUTCOMES.md with CS 105 learning outcomes
+  - Added comprehensive hyperlinks throughout evaluation documents (matrix + outcomes)
+  - Multiple commits pushed to GitHub Pages (4 commits in main repo, 3 in badm-syllabi)
+- **Artifacts:**
+  - `/docs/courses/*.html` - 10 course pages live on GitHub Pages
+  - `https://vishalsachdev.github.io/gies-ai-curriculum/courses/105.html` - CS 105 page
+- **Next:**
+  - Commit pending `is_core` flag additions to badm-syllabi (131 files)
+  - Faculty development planning for Fall 2026
+  - Extend learning outcomes to non-BADM departments (BUS, ACCY, FIN)
+  - Develop specific module designs for 5 high-priority courses
+
 ### 2026-01-04 (Session 2)
 - **Completed:**
   - AI curriculum integration matrix for BADM core (7 courses with extracted syllabi)
@@ -233,10 +251,9 @@ strategy/
 
 | Date | Notes |
 |------|-------|
+| 2026-01-04 | Session 3: Course pages, CS 105, hyperlinks, BADM 275 fix |
 | 2026-01-04 | Session 2: Matrix, learning outcomes, GitHub Pages site |
-| 2026-01-04 | Initial synthesis from 4 source documents + peer benchmarking + faculty needs |
-| 2026-01-04 | Added official Campus AI Framework (four tracks) from End of Term Update |
-| 2026-01-04 | Created HANDOVER.md for session continuity |
+| 2026-01-04 | Session 1: Initial synthesis from source documents, peer benchmarking, faculty needs |
 
 ---
 
@@ -273,5 +290,5 @@ strategy/
 
 ---
 
-*Last Updated: January 4, 2026*
-*Strategy Phase: Foundation Complete; Curriculum Design Phase (Q1 2026) Ready to Launch*
+*Last Updated: January 4, 2026 (Session 3)*
+*Strategy Phase: Curriculum Design Phase (Q1 2026) - Course analysis and learning outcomes complete for 9 core courses*
