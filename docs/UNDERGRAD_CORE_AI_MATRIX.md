@@ -8,20 +8,22 @@
 
 ---
 
-## Current State (7 BADM Core Courses)
+## Current State (7 BADM Core Courses + 1 Enhancement)
 
-| Course | Status | Track | L-C-E |
-|--------|--------|-------|-------|
-| [BADM 210](courses/210.html) | ✅ Has AI | AI Basics | L→C |
-| [BADM 211](courses/211.html) | ✅ Has AI | Agentic Systems | C |
-| [BADM 275](courses/275.html) | ❌ Needs AI | Agentic Systems | C |
-| [BADM 300](courses/300HON.html) | ❌ Needs AI | Human Centric | L→C |
-| [BADM 310](courses/310.html) | ❌ Needs AI | Human Centric | L→C |
-| [BADM 320](courses/320.html) | ❌ Needs AI | Agentic Systems | C |
-| [BADM 449](courses/449.html) | ⚠️ Weak | Agentic Systems | C→E |
-| [BADM 350](BADM_350_REDESIGN.md) | ✅ Template Ready | Agentic Systems | L→C→E |
+| Course | Current Name | Status | Track | L-C-E |
+|--------|--------------|--------|-------|-------|
+| [BADM 210](courses/210.html) | Business Analytics I | ✅ Has AI | AI Basics | L→C |
+| [BADM 211](courses/211.html) | Business Analytics II | ✅ Has AI | Agentic Systems | C |
+| [BADM 275](courses/275.html) | Fundamentals of Operations Management | ❌ Needs AI | Agentic Systems | C |
+| [BADM 300](courses/300HON.html) | The Legal Environment of Business | ❌ Needs AI | Human Centric | L→C |
+| [BADM 310](courses/310.html) | Management and Organizational Behavior | ❌ Needs AI | Human Centric | L→C |
+| [BADM 320](courses/320.html) | Principles of Marketing | ❌ Needs AI | Agentic Systems | C |
+| [BADM 449](courses/449.html) | Business Policy and Strategy | ⚠️ Weak AI | Agentic Systems | C→E |
+| [BADM 350](BADM_350_REDESIGN.md) | Technology and AI Strategy *(enhanced)* | ✅ Template Ready | Agentic Systems | L→C→E |
 
-**Key Finding:** 3/8 ready for AI (210, 211, 350 template); 5/8 need enhancement | **Gap:** Limited governance/ethics focus
+**Key Finding:** 3/8 ready for AI (210, 211, 350 enhanced); 5/8 need enhancement | **Gap:** Limited governance/ethics focus
+
+> **Note on BADM 350:** This is an *existing course* being enhanced with AI strategy content, proposed as a potential replacement for BADM 449 as the capstone if adding a new course is not feasible.
 
 ---
 
