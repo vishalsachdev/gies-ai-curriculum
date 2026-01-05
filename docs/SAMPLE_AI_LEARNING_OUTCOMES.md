@@ -61,7 +61,7 @@ Students progress through three levels:
 - Create balanced automation strategies
 - Formulate AI adoption strategies
 
-**Courses:** [BADM 211](courses/211.html), BADM 212 (proposed), [BADM 275](courses/275.html), [BADM 320](courses/320.html), BADM 350 (proposed)
+**Courses:** [BADM 211](courses/211.html), BADM 212 (proposed new), [BADM 275](courses/275.html), [BADM 320](courses/320.html), BADM 350 (enhanced existing)
 
 ---
 
@@ -87,7 +87,7 @@ Students progress through three levels:
 - Formulate AI policy positions
 - Create workforce transition strategies
 
-**Courses:** [BADM 300](courses/300HON.html), [BADM 310](courses/310.html), BADM 315 (proposed)
+**Courses:** [BADM 300](courses/300HON.html), [BADM 310](courses/310.html), BADM 315 (proposed new)
 
 ---
 
@@ -105,7 +105,7 @@ Students progress through three levels:
 - Design pipelines combining AI + human validation
 - Evaluate ML approach trade-offs
 
-### BADM 212 (proposed): AI Tools for Business Problem Solving
+### BADM 212: AI Tools for Business Problem Solving (Proposed New Course)
 - Evaluate and select AI tools
 - Engineer effective prompts
 - Integrate APIs into workflows
@@ -130,7 +130,7 @@ Students progress through three levels:
 - Assess management strategies for human-AI teams
 - Identify ethical hiring/performance considerations
 
-### BADM 315 (proposed): AI Governance & Responsible Business
+### BADM 315: AI Governance & Responsible Business (Proposed New Course)
 - Identify governance concerns in AI
 - Apply ethical frameworks
 - Evaluate organizational policies
@@ -142,7 +142,9 @@ Students progress through three levels:
 - Evaluate ethical implications (privacy)
 - Use generative AI for content
 
-### BADM 350: Technology and AI Strategy
+### BADM 350: Technology and AI Strategy (Enhanced Existing Course)
+> **Note:** BADM 350 is an existing course being enhanced with expanded AI strategy content. See [BADM 350 Redesign](BADM_350_REDESIGN.html) for details.
+
 - Explain how technology and AI create sustainable competitive advantage
 - Analyze real companies' AI and technology strategies
 - Evaluate emerging technologies for strategic fit
