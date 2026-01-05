@@ -2,7 +2,18 @@
 <style>
   /* Hide the left sidebar (header element in jekyll-theme-minimal) */
   header {
-    display: none;
+    display: none !important;
+  }
+
+  /* Also hide by targeting the wrapper's flex layout */
+  .wrapper {
+    display: block !important;
+  }
+
+  section {
+    width: 100% !important;
+    max-width: 100% !important;
+    float: none !important;
   }
 
   /* Make main content full width -->
