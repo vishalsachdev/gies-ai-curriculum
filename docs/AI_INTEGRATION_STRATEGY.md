@@ -94,15 +94,6 @@ Students can:
 
 ---
 
-## Impact Projections (Fall 2026)
-
-- **2,000+ students** reach expertise pathway (via BADM 350)
-- **1,500+ students** take new governance/tools courses
-- **100% of BADM core** students encounter AI content (currently ~60%)
-- **3,500+ students** impacted by course enhancements
-
----
-
 ## Implementation Timeline
 
 | Phase | Timeline | Actions |
