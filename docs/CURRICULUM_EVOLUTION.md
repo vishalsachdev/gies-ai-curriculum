@@ -26,11 +26,16 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 
 ### L-C-E Distribution
 
-| Level | Count | Courses |
-|-------|-------|---------|
-| Literacy | 3 | BADM 210, BADM 310, BADM 300 |
-| Competency | 6 | BADM 210, BADM 211, BADM 275, BADM 310, BADM 320, BADM 300, BADM 449 |
-| Expertise | 1 | BADM 449 |
+<table>
+<thead>
+<tr><th>Level</th><th>Count</th><th>Courses</th></tr>
+</thead>
+<tbody>
+<tr><td>Literacy</td><td>3</td><td>BADM 210, BADM 310, BADM 300</td></tr>
+<tr><td>Competency</td><td>6</td><td>BADM 210, BADM 211, BADM 275, BADM 310, BADM 320, BADM 300, BADM 449</td></tr>
+<tr><td>Expertise</td><td>1</td><td>BADM 449</td></tr>
+</tbody>
+</table>
 
 **⚠️ Gap:** Only 1 expertise-level course for 4,500+ undergraduates annually.
 
@@ -38,11 +43,16 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 
 ### Track Distribution
 
-| Track | Count | Courses |
-|-------|-------|---------|
-| AI Basics | 2 | BADM 210, (no others) |
-| Agentic Systems | 4 | BADM 211, BADM 275, BADM 320, BADM 449 |
-| Human Centric AI | 2 | BADM 300, BADM 310 |
+<table>
+<thead>
+<tr><th>Track</th><th>Count</th><th>Courses</th></tr>
+</thead>
+<tbody>
+<tr><td>AI Basics</td><td>2</td><td>BADM 210, (no others)</td></tr>
+<tr><td>Agentic Systems</td><td>4</td><td>BADM 211, BADM 275, BADM 320, BADM 449</td></tr>
+<tr><td>Human Centric AI</td><td>2</td><td>BADM 300, BADM 310</td></tr>
+</tbody>
+</table>
 
 **⚠️ Gap:** Human Centric AI underrepresented relative to strategic importance.
 
@@ -50,11 +60,16 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 
 ### Curricular Level Distribution
 
-| Level | Count | Courses |
-|-------|-------|---------|
-| 200-level (Foundation) | 3 | BADM 210, BADM 211, BADM 275 |
-| 300-level (Intermediate) | 3 | BADM 310, BADM 320, BADM 300 |
-| 400-level (Advanced) | 1 | BADM 449 |
+<table>
+<thead>
+<tr><th>Level</th><th>Count</th><th>Courses</th></tr>
+</thead>
+<tbody>
+<tr><td>200-level (Foundation)</td><td>3</td><td>BADM 210, BADM 211, BADM 275</td></tr>
+<tr><td>300-level (Intermediate)</td><td>3</td><td>BADM 310, BADM 320, BADM 300</td></tr>
+<tr><td>400-level (Advanced)</td><td>1</td><td>BADM 449</td></tr>
+</tbody>
+</table>
 
 **⚠️ Gap:** Thin advanced course offerings; expertise pathway unclear.
 
