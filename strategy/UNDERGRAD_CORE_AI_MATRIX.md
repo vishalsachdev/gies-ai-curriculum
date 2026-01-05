@@ -73,9 +73,9 @@ A course is **AI-Integrated** if it includes at least one of:
 
 | Course | Current AI Status | Primary Track | L-C-E Target | Priority | Integration Opportunity |
 |--------|-------------------|---------------|--------------|----------|------------------------|
-| **BADM 210** | ✅ Has AI | AI Basics | L→C | 🟢 | Already has "LLM & AI Lab" (Week 7); ChatGPT as learning objective |
-| **BADM 211** | ✅ Has AI | Agentic Systems | C | 🟢 | Already has "Introduction to AI Tools" (Week 6); Python + ML |
-| **CS 105** | ❌ None | AI Basics | L | 🟡 | Add Python + AI module; emphasize AI in problem-solving context |
+| **[BADM 210](../courses/210.html)** | ✅ Has AI | AI Basics | L→C | 🟢 | Already has "LLM & AI Lab" (Week 7); ChatGPT as learning objective |
+| **[BADM 211](../courses/211.html)** | ✅ Has AI | Agentic Systems | C | 🟢 | Already has "Introduction to AI Tools" (Week 6); Python + ML |
+| **[CS 105](../courses/105.html)** | ❌ None | AI Basics | L | 🟡 | Add Python + AI module; emphasize AI in problem-solving context |
 | **STAT/MATH** | ⚠️ Unknown | AI Basics | L | 🟢 | Connect statistics to AI/ML foundations |
 
 **Rationale:** CS 105 teaches Python fundamentals to non-tech majors—ideal platform to introduce AI concepts and responsible AI practices. BADM 210/211 are already AI-integrated leaders. Build on this foundation.
@@ -86,9 +86,9 @@ A course is **AI-Integrated** if it includes at least one of:
 
 | Course | Current AI Status | Primary Track | L-C-E Target | Priority | Integration Opportunity |
 |--------|-------------------|---------------|--------------|----------|------------------------|
-| **BADM 310** | ❌ None | Human Centric | L→C | 🔴 | AI impact on workforce; human-AI collaboration |
-| **BADM 320** | ❌ None | Agentic Systems | C | 🔴 | AI marketing tools; personalization; analytics |
-| **BADM 275** | ❌ None | Agentic Systems | C | 🔴 | AI in supply chain; demand forecasting; automation |
+| **[BADM 310](../courses/310.html)** | ❌ None | Human Centric | L→C | 🔴 | AI impact on workforce; human-AI collaboration |
+| **[BADM 320](../courses/320.html)** | ❌ None | Agentic Systems | C | 🔴 | AI marketing tools; personalization; analytics |
+| **[BADM 275](../courses/275.html)** | ❌ None | Agentic Systems | C | 🔴 | AI in supply chain; demand forecasting; automation |
 
 **Rationale:** High-impact functional courses where AI is transforming business practice.
 
@@ -98,8 +98,8 @@ A course is **AI-Integrated** if it includes at least one of:
 
 | Course | Current AI Status | Primary Track | L-C-E Target | Priority | Integration Opportunity |
 |--------|-------------------|---------------|--------------|----------|------------------------|
-| **BADM 300** | ❌ None | Human Centric | L→C | 🔴 | AI law; IP, liability, contracts with AI; regulation |
-| **BADM 449** | ⚠️ Case Study | Agentic Systems | C→E | 🔴 | AI strategy; competitive advantage through AI; capstone |
+| **[BADM 300](../courses/300HON.html)** | ❌ None | Human Centric | L→C | 🔴 | AI law; IP, liability, contracts with AI; regulation |
+| **[BADM 449](../courses/449.html)** | ⚠️ Case Study | Agentic Systems | C→E | 🔴 | AI strategy; competitive advantage through AI; capstone |
 
 **Rationale:** Legal and strategic courses are critical for responsible AI leadership.
 
@@ -111,18 +111,18 @@ A course is **AI-Integrated** if it includes at least one of:
 
 | Course | Integration Type | Track | Key Action |
 |--------|-----------------|-------|------------|
-| BADM 310 | Add Module | Human Centric | AI & workforce; human-AI collaboration |
-| BADM 320 | Add Tools | Agentic Systems | AI marketing tools workshop |
-| BADM 275 | Add Module + Tools | Agentic Systems | AI in supply chain operations |
-| BADM 300 | Add Module | Human Centric | AI legal framework; liability, IP |
-| BADM 449 | Add Case | Agentic Systems | AI strategy capstone case |
+| [BADM 310](../courses/310.html) | Add Module | Human Centric | AI & workforce; human-AI collaboration |
+| [BADM 320](../courses/320.html) | Add Tools | Agentic Systems | AI marketing tools workshop |
+| [BADM 275](../courses/275.html) | Add Module + Tools | Agentic Systems | AI in supply chain operations |
+| [BADM 300](../courses/300HON.html) | Add Module | Human Centric | AI legal framework; liability, IP |
+| [BADM 449](../courses/449.html) | Add Case | Agentic Systems | AI strategy capstone case |
 
 ### 🟢 Already Integrated
 
 | Course | Current State | Enhancement |
 |--------|--------------|-------------|
-| BADM 210 | Week 7 AI Lab; ChatGPT learning objective | Standardize across sections |
-| BADM 211 | Week 6 AI Tools; Python + ML | Connect to agentic workflows |
+| [BADM 210](../courses/210.html) | Week 7 AI Lab; ChatGPT learning objective | Standardize across sections |
+| [BADM 211](../courses/211.html) | Week 6 AI Tools; Python + ML | Connect to agentic workflows |
 
 ---
 
@@ -149,9 +149,9 @@ Year 4 (400-level): COMPETENCY → EXPERTISE
 
 | Track | BADM Courses Mapped | L-C-E Focus |
 |-------|----------------|-------------|
-| **AI Basics** | BADM 210 | Literacy |
-| **Agentic Systems** | BADM 211, 275, 320, 449 | Competency → Expertise |
-| **Human Centric AI** | BADM 300, 310 | Literacy → Competency |
+| **AI Basics** | [BADM 210](../courses/210.html) | Literacy |
+| **Agentic Systems** | [BADM 211](../courses/211.html), [BADM 275](../courses/275.html), [BADM 320](../courses/320.html), [BADM 449](../courses/449.html) | Competency → Expertise |
+| **Human Centric AI** | [BADM 300](../courses/300HON.html), [BADM 310](../courses/310.html) | Literacy → Competency |
 
 ---
 

@@ -36,7 +36,7 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 5. **Describe** the difference between narrow AI (task-specific) and general-purpose AI systems.
 
 **Course Mapping:**
-- BADM 210: Outcomes 1, 2, 5
+- [BADM 210](../courses/210.html): Outcomes 1, 2, 5
 
 ---
 
@@ -55,9 +55,9 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 5. **Interpret** AI recommendations within business context, distinguishing between correlation and causation.
 
 **Course Mapping (BADM Core):**
-- BADM 210: Outcomes 1, 3, 5
-- BADM 211: Outcomes 1, 3, 4, 5
-- BADM 320: Outcomes 1, 2, 4
+- [BADM 210](../courses/210.html): Outcomes 1, 3, 5
+- [BADM 211](../courses/211.html): Outcomes 1, 3, 4, 5
+- [BADM 320](../courses/320.html): Outcomes 1, 2, 4
 
 ---
 
@@ -72,8 +72,8 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 3. **Identify** opportunities in business processes where AI agents could add value.
 
 **Course Mapping (BADM Core):**
-- BADM 275: Outcomes 1, 2, 3
-- BADM 211: Outcomes 1, 2
+- [BADM 275](../courses/275.html): Outcomes 1, 2, 3
+- [BADM 211](../courses/211.html): Outcomes 1, 2
 
 ---
 
@@ -90,9 +90,9 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 5. **Evaluate** AI agent outputs for accuracy, relevance, and alignment with business objectives.
 
 **Course Mapping (BADM Core):**
-- BADM 211: Outcomes 1, 2, 3
-- BADM 275: Outcomes 1, 2, 3, 4
-- BADM 320: Outcomes 2, 3
+- [BADM 211](../courses/211.html): Outcomes 1, 2, 3
+- [BADM 275](../courses/275.html): Outcomes 1, 2, 3, 4
+- [BADM 320](../courses/320.html): Outcomes 2, 3
 
 ---
 
@@ -107,7 +107,7 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 4. **Formulate** AI adoption strategies for organizations considering competitive advantage, risk, and change management.
 
 **Course Mapping (BADM Core):**
-- BADM 449: Outcomes 2, 4
+- [BADM 449](../courses/449.html): Outcomes 2, 4
 
 ---
 
@@ -128,7 +128,7 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 5. **Articulate** personal and professional responsibilities when using AI in academic and business contexts.
 
 **Course Mapping (BADM Core):**
-- BADM 310: Outcomes 1, 2, 3
+- [BADM 310](../courses/310.html): Outcomes 1, 2, 3
 
 ---
 
@@ -147,8 +147,8 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 5. **Navigate** legal and regulatory requirements for AI use including intellectual property, liability, and compliance.
 
 **Course Mapping (BADM Core):**
-- BADM 300: Outcomes 3, 5
-- BADM 310: Outcomes 1, 4
+- [BADM 300](../courses/300HON.html): Outcomes 3, 5
+- [BADM 310](../courses/310.html): Outcomes 1, 4
 
 ---
 
@@ -163,7 +163,7 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 4. **Create** strategies for managing AI-related workforce transitions with attention to equity and inclusion.
 
 **Course Mapping (BADM Core):**
-- BADM 449: Outcome 1
+- [BADM 449](../courses/449.html): Outcome 1
 
 ---
 
