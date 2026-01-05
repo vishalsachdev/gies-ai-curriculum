@@ -25,9 +25,7 @@ Direct links to extracted course syllabi (JSON format) for all BADM core courses
 |--------|-------|---------|
 | **BADM 275** | Fundamentals of Operations Management | [View Course](courses/275.html) |
 | **BADM 310** | Management and Organizational Behavior | [View Course](courses/310.html) |
-| **BADM 310OL** | Management and Organizational Behavior (Online) | [View Course](courses/310OL.html) |
 | **BADM 320** | Principles of Marketing | [View Course](courses/320.html) |
-| **BADM 320OL** | Principles of Marketing (Online) | [View Course](courses/320OL.html) |
 
 **Status:** ❌ None have dedicated AI integration; high priority for Fall 2026
 
@@ -74,7 +72,6 @@ Each JSON file contains:
 ## Notes
 
 - **Missing:** Regular section of BADM 300 (only Honors variant extracted)
-- **Variants:** Online (OL) sections available for BADM 310, 320
 - **All extracted from:** `/badm-syllabi/data/extracted_llm/`
 
 ---
