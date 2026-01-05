@@ -9,8 +9,8 @@
 Gies is implementing comprehensive AI integration in undergraduate curriculum by Fall 2026. **Goal:** 100% of graduates develop AI literacy and practical competencies.
 
 **Key Initiatives:**
-- **3 new courses:** AI Governance (315), AI Tools (212), IT/AI Strategy (350)
-- **5 existing courses enhanced** with AI modules
+- **3 new courses:** AI Governance (315), AI Tools (212), IT/AI Strategy (350, enhanced from BADM 449)
+- **6 existing courses enhanced** with AI modules
 - **L-C-E progression:** Literacy → Competency → Expertise
 - **Aligned with campus AI framework:** 4 tracks
 
@@ -28,7 +28,7 @@ Gies is implementing comprehensive AI integration in undergraduate curriculum by
 | **BADM 212** | 200 | Hands-on AI tools, automation | Competency |
 | **BADM 350** | 300 | IT/AI strategy, competitive advantage | Competency → Expertise |
 
-### Five Course Enhancements
+### Six Course Enhancements
 
 | Course | Enhancement |
 |--------|-------------|
@@ -128,8 +128,8 @@ Students can:
 ## Resources
 
 - **Full curriculum details:** See `SAMPLE_AI_LEARNING_OUTCOMES.md` and `UNDERGRAD_CORE_AI_MATRIX.md`
-- **Course syllabi:** See `/courses/` for BADM 315, 212, 410
-- **Strategic analysis:** See `BADM_350_ANALYSIS.md` for BADM 350 restoration case
+- **Course syllabi:** See `courses.html` for BADM 315, 212, 350
+- **Strategic analysis:** See `BADM_350_ANALYSIS.md` (in strategy folder, not published) for BADM 350 restoration case
 
 ---
 

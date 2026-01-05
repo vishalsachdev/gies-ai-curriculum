@@ -1,20 +1,15 @@
 <!-- Custom CSS to remove sidebar -->
 <style>
-  /* Hide the sidebar -->
-  .sidebar {
+  /* Hide the left sidebar (header element in jekyll-theme-minimal) */
+  header {
     display: none;
   }
 
   /* Make main content full width -->
   .wrapper {
     max-width: 100%;
-    margin: 0 auto;
-    padding: 0 20px;
-  }
-
-  /* Adjust main content area to fill space -->
-  .site-header {
-    width: 100%;
+    margin: 0;
+    padding: 20px;
   }
 
   /* Ensure proper spacing */
@@ -22,14 +17,15 @@
     padding: 0;
   }
 
-  /* Keep header styling but remove sidebar constraints */
-  .page-header {
-    padding: 20px 20px;
-    margin: 0;
+  /* Ensure page content takes full width */
+  .page-content {
+    width: 100%;
+    max-width: 100%;
   }
 
   /* Main content area - full width */
   main {
     width: 100%;
+    max-width: 100%;
   }
 </style>

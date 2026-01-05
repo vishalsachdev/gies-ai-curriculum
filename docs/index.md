@@ -73,24 +73,24 @@ Links to extracted course syllabi (JSON format) for all BADM core courses analyz
 ## How to Use These Documents
 
 ### For College Leadership
-1. Read **AI Integration Strategy** (sections 1-4, 9 for overview)
-2. Review **Integration Matrix** for scope and priorities
+1. Read **[AI Integration Strategy](AI_INTEGRATION_STRATEGY.html)** (sections 1-4, 9 for overview)
+2. Review **[Integration Matrix](UNDERGRAD_CORE_AI_MATRIX.html)** for scope and priorities
 3. Use for strategic communication with Faculty Senate, Provost
 
 ### For Curriculum Committee
-1. Start with **Integration Matrix** (current state and priorities)
-2. Review **Sample Learning Outcomes** (use as template for other courses)
-3. Reference **AI Integration Strategy** (section 7: peer models)
+1. Start with **[Integration Matrix](UNDERGRAD_CORE_AI_MATRIX.html)** (current state and priorities)
+2. Review **[Sample Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html)** (use as template for other courses)
+3. Reference **[AI Integration Strategy](AI_INTEGRATION_STRATEGY.html)** (section 7: peer models)
 
 ### For Individual Faculty
-1. Find your course in **Integration Matrix**
-2. Review sample outcomes for similar courses in **Sample Learning Outcomes**
-3. Reference **AI Integration Strategy** (section 6: faculty support resources)
+1. Find your course in **[Integration Matrix](UNDERGRAD_CORE_AI_MATRIX.html)**
+2. Review sample outcomes for similar courses in **[Sample Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html)**
+3. Reference **[AI Integration Strategy](AI_INTEGRATION_STRATEGY.html)** (section 6: faculty support resources)
 
 ### For Assessment Design
-1. Review **Sample Learning Outcomes** (L-C-E framework)
+1. Review **[Sample Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html)** (L-C-E framework)
 2. Use provided rubric guidance in that document
-3. Align with **Integration Matrix** (L-C-E targets per course)
+3. Align with **[Integration Matrix](UNDERGRAD_CORE_AI_MATRIX.html)** (L-C-E targets per course)
 
 ---
 
@@ -112,7 +112,7 @@ Links to extracted course syllabi (JSON format) for all BADM core courses analyz
 2. **Track 3: Agentic Systems & Workflows** — AI agents, automation, business applications
 3. **Track 4: Human Centric AI** — Ethics, governance, responsible use, societal impact
 
-*Note: Track 2 (AI & ML Technologies) is technical/engineering-focused; not primary focus for business core.*
+*Note: Track 2 (AI & ML Technologies) focuses on technical implementation, model training, and engineering principles—skills primarily covered in computer science and engineering curricula. Business core emphasizes application, strategy, and responsible use rather than technical development.*
 
 ### Skills Progression (UNESCO-adapted)
 - **Literacy** — Foundational concepts
@@ -150,7 +150,7 @@ Links to extracted course syllabi (JSON format) for all BADM core courses analyz
 
 ## Questions?
 
-For detailed context on strategic decisions, governance, and peer comparisons, see **AI_INTEGRATION_STRATEGY.md**.
+For detailed context on strategic decisions, governance, and peer comparisons, see **[AI Integration Strategy](AI_INTEGRATION_STRATEGY.html)**.
 
 ---
 

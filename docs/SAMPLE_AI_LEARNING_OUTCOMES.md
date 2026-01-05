@@ -30,7 +30,11 @@ Students progress through three levels:
 - Evaluate AI outputs (bias, errors, hallucinations)
 - Select appropriate AI tools for problems
 
-**Courses:** BADM 210, 211, 320
+**Courses:** [BADM 210](courses/210.html), [BADM 211](courses/211.html), [BADM 320](courses/320.html)
+
+---
+
+> **Note:** Track 2 (AI & ML Technologies) focuses on engineering and technical implementation, and is not a primary focus for the business curriculum.
 
 ---
 
@@ -53,7 +57,7 @@ Students progress through three levels:
 - Create balanced automation strategies
 - Formulate AI adoption strategies
 
-**Courses:** BADM 211, 212, 275, 320, 350
+**Courses:** [BADM 211](courses/211.html), BADM 212 (proposed), [BADM 275](courses/275.html), [BADM 320](courses/320.html), BADM 350 (proposed)
 
 ---
 
@@ -79,68 +83,68 @@ Students progress through three levels:
 - Formulate AI policy positions
 - Create workforce transition strategies
 
-**Courses:** BADM 300, 310, 315
+**Courses:** [BADM 300](courses/300HON.html), [BADM 310](courses/310.html), BADM 315 (proposed)
 
 ---
 
 ## Course-Specific Outcomes
 
-### BADM 210: AI Fundamentals for Business
+### [BADM 210](courses/210.html): AI Fundamentals for Business
 - Explain how LLMs work
 - Apply AI to data analysis
 - Evaluate AI outputs critically
 - Use ChatGPT for business tasks
 
-### BADM 211: Machine Learning for Business
+### [BADM 211](courses/211.html): Machine Learning for Business
 - Integrate AI into Python workflows
 - Apply ML to classification/prediction
 - Design pipelines combining AI + human validation
 - Evaluate ML approach trade-offs
 
-### BADM 212: AI Tools for Business Problem Solving
+### BADM 212 (proposed): AI Tools for Business Problem Solving
 - Evaluate and select AI tools
 - Engineer effective prompts
 - Integrate APIs into workflows
 - Design human-AI collaboration
 - Monitor AI quality
 
-### BADM 275: Operations Management + AI
+### [BADM 275](courses/275.html): Operations Management + AI
 - Explain AI in supply chain
 - Apply AI to operations analysis
 - Evaluate automation opportunities
 - Design human-AI operations workflows
 
-### BADM 300: Legal Environment + AI
+### [BADM 300](courses/300HON.html): Legal Environment + AI
 - Explain emerging AI legal frameworks
 - Analyze regulatory considerations
 - Evaluate AI-related legal risks
 - Apply legal principles to AI contracts
 
-### BADM 310: Management & Org Behavior + AI
+### [BADM 310](courses/310.html): Management & Org Behavior + AI
 - Analyze AI's impact on job roles
 - Evaluate AI impact on workforce trust
 - Assess management strategies for human-AI teams
 - Identify ethical hiring/performance considerations
 
-### BADM 315: AI Governance & Responsible Business
+### BADM 315 (proposed): AI Governance & Responsible Business
 - Identify governance concerns in AI
 - Apply ethical frameworks
 - Evaluate organizational policies
 - Design accountability mechanisms
 
-### BADM 320: Marketing + AI
+### [BADM 320](courses/320.html): Marketing + AI
 - Apply AI for segmentation/personalization
 - Analyze AI-driven advertising
 - Evaluate ethical implications (privacy)
 - Use generative AI for content
 
-### BADM 350: IT & AI Strategy
+### BADM 350 (proposed): IT & AI Strategy
 - Analyze how AI creates competitive advantage
 - Assess organizational AI readiness
 - Design AI transformation strategies
 - Communicate strategy to executives
 
-### CS 105: Intro Computing: Non-Tech
+### [CS 105](courses/105.html): Intro Computing: Non-Tech
 - Explain algorithms' relation to AI/ML
 - Identify automation applications
 - Describe data's role in AI

@@ -8,13 +8,13 @@
 
 | Course | Status | Track | L-C-E |
 |--------|--------|-------|-------|
-| BADM 210 | ✅ Has AI | AI Basics | L→C |
-| BADM 211 | ✅ Has AI | Agentic Systems | C |
-| BADM 275 | ❌ Needs AI | Agentic Systems | C |
-| BADM 300 | ❌ Needs AI | Human Centric | L→C |
-| BADM 310 | ❌ Needs AI | Human Centric | L→C |
-| BADM 320 | ❌ Needs AI | Agentic Systems | C |
-| BADM 449 | ⚠️ Weak | Agentic Systems | C→E |
+| [BADM 210](courses/210.html) | ✅ Has AI | AI Basics | L→C |
+| [BADM 211](courses/211.html) | ✅ Has AI | Agentic Systems | C |
+| [BADM 275](courses/275.html) | ❌ Needs AI | Agentic Systems | C |
+| [BADM 300](courses/300HON.html) | ❌ Needs AI | Human Centric | L→C |
+| [BADM 310](courses/310.html) | ❌ Needs AI | Human Centric | L→C |
+| [BADM 320](courses/320.html) | ❌ Needs AI | Agentic Systems | C |
+| [BADM 449](courses/449.html) | ⚠️ Weak | Agentic Systems | C→E |
 
 **Key Finding:** 2/7 have AI; 5/7 need enhancement | **Gap:** Limited governance/ethics focus
 
@@ -36,30 +36,30 @@
 
 | Course | Current | Enhancement | Track |
 |--------|---------|-------------|-------|
-| **BADM 210** | Has AI lab | Strengthen + rename | AI Basics |
-| **BADM 211** | Has AI tools | Emphasize ML | Agentic |
-| **BADM 275** | None | Add supply chain AI | Agentic |
-| **BADM 300** | None | Add AI liability | Human Centric |
-| **BADM 310** | None | Add workforce impact | Human Centric |
-| **BADM 320** | None | Add personalization | Agentic |
-| **BADM 349** | Weak | → BADM 350: AI Strategy | Agentic |
+| **[BADM 210](courses/210.html)** | Has AI lab | Strengthen + rename | AI Basics |
+| **[BADM 211](courses/211.html)** | Has AI tools | Emphasize ML | Agentic |
+| **[BADM 275](courses/275.html)** | None | Add supply chain AI | Agentic |
+| **[BADM 300](courses/300HON.html)** | None | Add AI liability | Human Centric |
+| **[BADM 310](courses/310.html)** | None | Add workforce impact | Human Centric |
+| **[BADM 320](courses/320.html)** | None | Add personalization | Agentic |
+| **[BADM 449](courses/449.html)** | Weak | → BADM 350: AI Strategy | Agentic |
 
 ---
 
 ## L-C-E Progression (Entire BADM Core)
 
 **Year 2 (200-level):**
-- BADM 210: AI Fundamentals (L→C)
-- BADM 211: Machine Learning (C)
-- BADM 275: Operations + AI (C)
+- [BADM 210](courses/210.html): AI Fundamentals (L→C)
+- [BADM 211](courses/211.html): Machine Learning (C)
+- [BADM 275](courses/275.html): Operations + AI (C)
 
 **Year 3 (300-level):**
-- BADM 300: Legal + AI (L→C)
-- BADM 310: Management + AI (L→C)
-- BADM 320: Marketing + AI (C)
+- [BADM 300](courses/300HON.html): Legal + AI (L→C)
+- [BADM 310](courses/310.html): Management + AI (L→C)
+- [BADM 320](courses/320.html): Marketing + AI (C)
 
 **Year 4 (400-level):**
-- BADM 350: AI Strategy (C→E) [Enhanced capstone]
+- BADM 350 (proposed): AI Strategy (C→E) [Enhanced capstone]
 
 ---
 
@@ -67,9 +67,9 @@
 
 | Track | Courses | L-C-E |
 |-------|---------|-------|
-| **AI Basics** | 210 | Literacy |
-| **Agentic Systems** | 211, 212, 275, 320, 350 | Competency → Expertise |
-| **Human Centric** | 300, 310, 315 | Literacy → Competency |
+| **AI Basics** | [210](courses/210.html) | Literacy |
+| **Agentic Systems** | [211](courses/211.html), 212 (proposed), [275](courses/275.html), [320](courses/320.html), 350 (proposed) | Competency → Expertise |
+| **Human Centric** | [300](courses/300HON.html), [310](courses/310.html), 315 (proposed) | Literacy → Competency |
 
 ---
 
