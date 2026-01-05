@@ -4,7 +4,7 @@
 
 # Curriculum Evolution: New Courses & Course Redesigns
 
-**Date:** January 4, 2026 | **Scope:** BADM Core Curriculum Enhancement Strategy | **Framework:** Literacy-Competency-Expertise (L-C-E) Progression
+**Date:** January 4, 2026 | **Scope:** BADM Core Curriculum Enhancement Strategy | **Framework:** L-C-E Progression
 
 ---
 
