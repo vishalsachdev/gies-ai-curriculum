@@ -9,17 +9,19 @@
 
 ## BADM Courses in Undergraduate Core (Extracted Syllabi Set)
 
-| Code | Title | Hours | Current AI Status |
-|------|-------|-------|-------------------|
-| BADM 210 | Business Analytics I | 3 | ✅ Has AI |
-| BADM 211 | Business Analytics II | 3 | ✅ Has AI |
-| BADM 275 | Fundamentals of Operations Management | 3 | ❌ No AI |
-| BADM 300 | The Legal Environment of Business | 3 | ❌ No AI |
-| BADM 310 | Management and Organizational Behavior | 3 | ❌ No AI |
-| BADM 320 | Principles of Marketing | 3 | ❌ No AI |
-| BADM 449 | Business Policy and Strategy | 3 | ⚠️ Case Study |
+| Code | Title | Hours | Syllabus | Topics | Objectives | Current AI Status |
+|------|-------|-------|----------|--------|------------|-------------------|
+| [BADM 210](../courses/210.html) | Business Analytics I | 3 | [View](../courses/210.html) | 15 | 10 | ✅ Has AI |
+| [BADM 211](../courses/211.html) | Business Analytics II | 3 | [View](../courses/211.html) | 14 | 3 | ✅ Has AI |
+| [BADM 275](../courses/275.html) | Fundamentals of Operations Management | 3 | [View](../courses/275.html) | 12 | 4 | 📋 Policy |
+| [BADM 300](../courses/300HON.html) | The Legal Environment of Business | 3 | [View](../courses/300HON.html) | 14 | 2 | ❌ No AI |
+| [BADM 310](../courses/310.html) | Management and Organizational Behavior | 3 | [View](../courses/310.html) | 25 | 5 | ❌ No AI |
+| [BADM 320](../courses/320.html) | Principles of Marketing | 3 | [View](../courses/320.html) | 13 | 4 | ❌ No AI |
+| [BADM 449](../courses/449.html) | Business Policy and Strategy | 3 | [View](../courses/449.html) | 62 | 3 | ⚠️ Case Study |
 
 **Note:** Full undergraduate core includes 18 courses across 8 departments (BUS, ACCY, FIN, CS, CMN, ECON, MATH/STAT, BADM). This matrix focuses on BADM courses with available extracted syllabi.
+
+**Extraction Status:** All 7 BADM core courses have been extracted and validated. Full course syllabi are available via links above. Course schedules showing topics and learning objectives are now live on GitHub Pages at [gies-ai-curriculum](https://vishalsachdev.github.io/gies-ai-curriculum/).
 
 ---
 

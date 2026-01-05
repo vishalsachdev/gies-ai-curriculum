@@ -169,8 +169,9 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 
 ## Course-Specific Learning Outcome Examples (BADM Core)
 
-### BADM 210: Business Analytics I
+### [BADM 210: Business Analytics I](../courses/210.html)
 *L-C-E Target: Literacy → Competency (AI Basics + Agentic Systems)*
+*[View Full Syllabus](../courses/210.html)*
 
 Upon completion of this course, students will be able to:
 1. **Explain** how generative AI and large language models process and generate text.
@@ -182,8 +183,9 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 211: Business Analytics II
+### [BADM 211: Business Analytics II](../courses/211.html)
 *L-C-E Target: Competency (Agentic Systems)*
+*[View Full Syllabus](../courses/211.html)*
 
 Upon completion of this course, students will be able to:
 1. **Integrate** AI tools into Python-based data analysis workflows.
@@ -195,8 +197,9 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 310: Management and Organizational Behavior
+### [BADM 310: Management and Organizational Behavior](../courses/310.html)
 *L-C-E Target: Literacy → Competency (Human Centric AI)*
+*[View Full Syllabus](../courses/310.html)*
 
 Upon completion of this course, students will be able to:
 1. **Analyze** how AI is changing job roles, skills requirements, and workforce composition.
@@ -206,8 +209,9 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 320: Principles of Marketing
+### [BADM 320: Principles of Marketing](../courses/320.html)
 *L-C-E Target: Competency (Agentic Systems)*
+*[View Full Syllabus](../courses/320.html)*
 
 Upon completion of this course, students will be able to:
 1. **Apply** AI marketing tools for customer segmentation, personalization, and campaign optimization.
@@ -217,8 +221,9 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 275: Fundamentals of Operations Management
+### [BADM 275: Fundamentals of Operations Management](../courses/275.html)
 *L-C-E Target: Competency (Agentic Systems)*
+*[View Full Syllabus](../courses/275.html)*
 
 Upon completion of this course, students will be able to:
 1. **Explain** how AI is transforming supply chain management, demand forecasting, and inventory optimization.
@@ -228,8 +233,9 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 300: The Legal Environment of Business
+### [BADM 300: The Legal Environment of Business](../courses/300HON.html)
 *L-C-E Target: Literacy → Competency (Human Centric AI)*
+*[View Full Syllabus](../courses/300HON.html)*
 
 Upon completion of this course, students will be able to:
 1. **Explain** emerging legal frameworks governing AI use including liability, intellectual property, and privacy.
@@ -239,8 +245,9 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 449: Business Policy and Strategy
+### [BADM 449: Business Policy and Strategy](../courses/449.html)
 *L-C-E Target: Competency → Expertise (Agentic Systems)*
+*[View Full Syllabus](../courses/449.html)*
 
 Upon completion of this course, students will be able to:
 1. **Analyze** how AI creates and disrupts competitive advantage in industries.
