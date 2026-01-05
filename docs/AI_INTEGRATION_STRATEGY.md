@@ -13,7 +13,8 @@
 Gies is implementing comprehensive AI integration in undergraduate curriculum by Fall 2026. **Goal:** 100% of graduates develop AI literacy and practical competencies.
 
 **Key Initiatives:**
-- **3 new courses:** AI Governance (315), AI Tools (212), IT/AI Strategy (350, enhanced from BADM 449)
+- **2 new courses:** AI Governance (315), AI Tools (212)
+- **1 enhanced course:** BADM 350 "Technology and AI Strategy" (potential replacement for BADM 449 capstone)
 - **6 existing courses enhanced** with AI modules
 - **L-C-E progression:** Literacy → Competency → Expertise
 - **Aligned with campus AI framework:** 4 tracks
@@ -24,13 +25,20 @@ Gies is implementing comprehensive AI integration in undergraduate curriculum by
 
 ## Tier 1: Fall 2026 Implementation
 
-### Three New Courses
+### Two New Courses
 
 | Course | Level | Focus | Learning Target |
 |--------|-------|-------|-----------------|
 | **BADM 315** | 300 | Governance, ethics, responsible AI | Literacy → Competency |
 | **BADM 212** | 200 | Hands-on AI tools, automation | Competency |
-| **BADM 350** | 300 | IT/AI strategy, competitive advantage | Competency → Expertise |
+
+### One Enhanced Course (Potential BADM 449 Replacement)
+
+| Course | Level | Focus | Learning Target |
+|--------|-------|-------|-----------------|
+| **[BADM 350](BADM_350_REDESIGN.md)** | 300 | Technology and AI Strategy | L → C → E |
+
+> **Note:** BADM 350 is an *existing course* being enhanced with AI strategy content. If adding a new course is not feasible, this could serve as the capstone replacement for BADM 449.
 
 ### Six Course Enhancements
 
@@ -99,7 +107,7 @@ Students can:
 
 | Phase | Timeline | Actions |
 |-------|----------|---------|
-| **Course Design** | Spring 2026 | Finalize BADM 315, 212, 350 syllabi |
+| **Course Design** | Spring 2026 | Finalize BADM 315, 212 (new); enhance BADM 350 |
 | **Faculty Prep** | Spring 2026 | Training workshops, material development |
 | **Approval** | May 2026 | BADM program & college sign-off |
 | **Launch** | Fall 2026 | All courses live |
@@ -118,10 +126,11 @@ Students can:
 ## Next Steps (Q1 2026)
 
 **Decisions Needed:**
-1. Approve 3 new courses (BADM 315, 212, 350)
-2. Authorize course redesigns (210, 211, 275, 300, 310, 320)
-3. Allocate faculty development budget
-4. Assign faculty leads for new courses
+1. Approve 2 new courses (BADM 315, 212)
+2. Approve BADM 350 enhancement (potential BADM 449 replacement)
+3. Authorize course redesigns (210, 211, 275, 300, 310, 320)
+4. Allocate faculty development budget
+5. Assign faculty leads for new/enhanced courses
 
 **Key Contacts:**
 - **Co-Chairs:** Nerissa Brown, Nathan Yang
