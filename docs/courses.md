@@ -6,10 +6,10 @@ Direct links to extracted course syllabi (JSON format) for all BADM core courses
 
 ## Analytics & Quantitative Core
 
-| Course | Title | Syllabi |
+| Course | Title | Syllabus |
 |--------|-------|---------|
-| **BADM 210** | Business Analytics I | [View JSON](../badm-syllabi/data/extracted_llm/210.json) |
-| **BADM 211** | Business Analytics II | [View JSON](../badm-syllabi/data/extracted_llm/211.json) |
+| **BADM 210** | Business Analytics I | [View Course](courses/210.html) |
+| **BADM 211** | Business Analytics II | [View Course](courses/211.html) |
 
 **Status:** ✅ Both already AI-integrated
 
@@ -17,13 +17,13 @@ Direct links to extracted course syllabi (JSON format) for all BADM core courses
 
 ## Functional/Business Core
 
-| Course | Title | Syllabi |
+| Course | Title | Syllabus |
 |--------|-------|---------|
-| **BADM 275** | Fundamentals of Operations Management | [View JSON](../badm-syllabi/data/extracted_llm/275.json) |
-| **BADM 310** | Management and Organizational Behavior | [View JSON](../badm-syllabi/data/extracted_llm/310.json) |
-| **BADM 310OL** | Management and Organizational Behavior (Online) | [View JSON](../badm-syllabi/data/extracted_llm/310OL.json) |
-| **BADM 320** | Principles of Marketing | [View JSON](../badm-syllabi/data/extracted_llm/320.json) |
-| **BADM 320OL** | Principles of Marketing (Online) | [View JSON](../badm-syllabi/data/extracted_llm/320OL.json) |
+| **BADM 275** | Fundamentals of Operations Management | [View Course](courses/275.html) |
+| **BADM 310** | Management and Organizational Behavior | [View Course](courses/310.html) |
+| **BADM 310OL** | Management and Organizational Behavior (Online) | [View Course](courses/310OL.html) |
+| **BADM 320** | Principles of Marketing | [View Course](courses/320.html) |
+| **BADM 320OL** | Principles of Marketing (Online) | [View Course](courses/320OL.html) |
 
 **Status:** ❌ None have dedicated AI integration; high priority for Fall 2026
 
@@ -31,11 +31,11 @@ Direct links to extracted course syllabi (JSON format) for all BADM core courses
 
 ## Strategy & Law Core
 
-| Course | Title | Syllabi |
+| Course | Title | Syllabus |
 |--------|-------|---------|
-| **BADM 300** | The Legal Environment of Business | [View JSON](../badm-syllabi/data/extracted_llm/300HON.json) |
-| **BADM 300HON** | The Legal Environment of Business (Honors) | [View JSON](../badm-syllabi/data/extracted_llm/300HON.json) |
-| **BADM 449** | Business Policy and Strategy | [View JSON](../badm-syllabi/data/extracted_llm/449.json) |
+| **BADM 300** | The Legal Environment of Business | [View Course](courses/300HON.html) |
+| **BADM 300HON** | The Legal Environment of Business (Honors) | [View Course](courses/300HON.html) |
+| **BADM 449** | Business Policy and Strategy | [View Course](courses/449.html) |
 
 **Status:** ⚠️ BADM 449 has case study reference; BADM 300 needs integration
 

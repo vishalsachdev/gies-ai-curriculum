@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BADM 211 - Business Analytics II</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #003366;
+            border-bottom: 3px solid #003366;
+            padding-bottom: 10px;
+        }
+        .course-header {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-left: 4px solid #003366;
+        }
+        .course-meta {
+            display: flex;
+            flex-direction: column;
+        }
+        .course-meta strong {
+            color: #003366;
+        }
+        .core-badge {
+            display: inline-block;
+            background: #28a745;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+        h2 {
+            color: #003366;
+            margin-top: 30px;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 8px;
+        }
+        .learning-objectives {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-left: 4px solid #007bff;
+            margin: 15px 0;
+            border-radius: 4px;
+        }
+        .learning-objectives li {
+            margin: 10px 0;
+        }
+        .topics {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-left: 4px solid #28a745;
+            margin: 15px 0;
+            border-radius: 4px;
+        }
+        .topics table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .topics th, .topics td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .topics th {
+            background-color: #e9ecef;
+            font-weight: bold;
+        }
+        .topics tr:hover {
+            background-color: #f5f5f5;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 15px;
+            background-color: #003366;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        .back-link:hover {
+            background-color: #002244;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>BADM 211 - Business Analytics II
+            <span class="core-badge">CORE</span>
+        </h1>
+        
+        <div class="course-header">
+            <div class="course-meta">
+                <strong>Instructor:</strong> Bahrini
+            </div>
+            <div class="course-meta">
+                <strong>Semester:</strong> sp25
+            </div>
+            <div class="course-meta">
+                <strong>Core Requirement:</strong> Yes
+            </div>
+        </div>
+        
+        <h2>Course Description</h2>
+        <p>Builds on the foundation from the Business Analytics I (BADM 210), synthesizes concepts through hands-on application and project-based learning. Focuses on data acquisition, organization, analysis and visualization in a business setting. Expanding on the use of statistics in generating basic inferences to predictive modeling Identify opportunities for improving business decisions using data, conduct relevant analysis of the gathered and cleaned data, and finally, interpret and present analysis outcomes to decision makers. Using statistical tools and software applications to identify business problems, acquire relevant data, and generate analytic solutions using advanced analytics techniques and tools for generating insights. Introduces the students to analyzing, learning, and prediction using advanced analytics techniques and tools for generating business insights. This course will provide a practical introduction to various techniques regarding clustering, text mining, classification and decision trees, and time series analysis. Finally, the course will introduce advanced and emerging topics in predictive analytics.</p>
+        
+        <h2>Learning Objectives</h2>
+        <div class="learning-objectives">
+            <ul>
+                <li>Acquire statistical reasoning and understand the difference between inferential and predictive methods, the role of machine learning, and the use of regression or classification to address analytical problems.</li>
+                <li>Analyze real, complex datasets and apply various models to describe and gain insights from this data.</li>
+                <li>Learn various ways to construct robust linear and nonlinear predictive models to improve business decisions.</li>
+                <li>Learn how to communicate the results and insights from your data analysis to any audience in a variety of ways, i.e., orally, graphically, and in writing.</li>
+                <li>Be able to use the programming language Python to perform effective and efficient business analysis.</li>
+            </ul>
+        </div>
+        
+        <h2>Course Schedule</h2>
+        <div class="topics">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Week</th>
+                        <th>Topic</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>1</td><td>Welcome and Course Introduction</td></tr>
+                    <tr><td>2</td><td>Introduction to Jupyter Notebooks and Python</td></tr>
+                    <tr><td>3</td><td>Python Data Structures: Lists and Dictionaries</td></tr>
+                    <tr><td>3</td><td>Introduction to Pandas: Series and Dataframes</td></tr>
+                    <tr><td>4</td><td>Basic functions and packages</td></tr>
+                    <tr><td>4</td><td>Data Exploration: Data Selection</td></tr>
+                    <tr><td>5</td><td>Data Exploration: Dataframe Summaries</td></tr>
+                    <tr><td>5</td><td>Data Cleaning: Duplicates, Missing Values, Outliers, and Dummy Coding</td></tr>
+                    <tr><td>6</td><td>Data Visualization</td></tr>
+                    <tr><td>6</td><td>Introduction to AI Tools, and Introduction to Mini-project</td></tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <a href="../courses.html" class="back-link">← Back to Courses</a>
+    </div>
+</body>
+</html>

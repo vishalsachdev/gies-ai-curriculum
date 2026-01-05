@@ -169,7 +169,7 @@ Each outcome follows Bloom's Taxonomy action verbs appropriate to L-C-E level:
 
 ## Course-Specific Learning Outcome Examples (BADM Core)
 
-### BADM 210: Business Analytics I
+### [BADM 210: Business Analytics I](courses/210.html)
 *L-C-E Target: Literacy → Competency (AI Basics + Agentic Systems)*
 
 Upon completion of this course, students will be able to:
@@ -182,7 +182,7 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 211: Business Analytics II
+### [BADM 211: Business Analytics II](courses/211.html)
 *L-C-E Target: Competency (Agentic Systems)*
 
 Upon completion of this course, students will be able to:
@@ -195,7 +195,7 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 310: Management and Organizational Behavior
+### [BADM 310: Management and Organizational Behavior](courses/310.html)
 *L-C-E Target: Literacy → Competency (Human Centric AI)*
 
 Upon completion of this course, students will be able to:
@@ -206,7 +206,7 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 320: Principles of Marketing
+### [BADM 320: Principles of Marketing](courses/320.html)
 *L-C-E Target: Competency (Agentic Systems)*
 
 Upon completion of this course, students will be able to:
@@ -217,7 +217,7 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 275: Fundamentals of Operations Management
+### [BADM 275: Fundamentals of Operations Management](courses/275.html)
 *L-C-E Target: Competency (Agentic Systems)*
 
 Upon completion of this course, students will be able to:
@@ -228,7 +228,7 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 300: The Legal Environment of Business
+### [BADM 300: The Legal Environment of Business](courses/300HON.html)
 *L-C-E Target: Literacy → Competency (Human Centric AI)*
 
 Upon completion of this course, students will be able to:
@@ -239,7 +239,7 @@ Upon completion of this course, students will be able to:
 
 ---
 
-### BADM 449: Business Policy and Strategy
+### [BADM 449: Business Policy and Strategy](courses/449.html)
 *L-C-E Target: Competency → Expertise (Agentic Systems)*
 
 Upon completion of this course, students will be able to:
