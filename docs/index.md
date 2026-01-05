@@ -8,6 +8,88 @@
 
 ---
 
+## Executive Brief
+
+> **📋 Three-Minute Summary for Leadership**
+
+**What:** Comprehensive AI integration across undergraduate BADM core curriculum (7 courses)
+
+**Why:**
+- Respond to industry demand for AI-literate business graduates
+- Align with campus-wide AI Framework (3 tracks: AI Basics, Agentic Systems, Human Centric AI)
+- Position Gies as leader in AI-integrated business education
+
+**When:**
+- **Spring 2026:** Course design and faculty development
+- **Fall 2026:** Launch implementation
+
+**What We're Asking For:**
+- Approve **2 new courses**: BADM 315 (AI Governance), BADM 212 (AI Tools)
+- Support **1 enhanced course**: BADM 350 "Technology and AI Strategy" (potential BADM 449 capstone replacement)
+- Enable **6 course enhancements**: AI modules in BADM 210, 211, 275, 300, 310, 320
+
+**Current Status:** 3 of 8 courses ready; 5 need enhancement by Fall 2026
+
+---
+
+## Key Decisions Required
+
+Leadership approval needed for:
+
+### 1. New Course Creation
+- **BADM 315: AI Governance** (300-level, Human Centric track)
+  - Focus: Ethics, governance, responsible AI, regulatory frameworks
+  - Learning target: Literacy → Competency
+  - Addresses critical gap in governance/ethics coverage
+
+- **BADM 212: AI Tools for Business** (200-level, Agentic Systems track)
+  - Focus: Hands-on AI tools, automation, practical applications
+  - Learning target: Competency
+  - Builds on BADM 210/211 analytics foundation
+
+### 2. Course Enhancement
+- **BADM 350: Technology and AI Strategy** (enhanced, not new)
+  - Existing course with AI strategy content added
+  - Could serve as capstone alternative if BADM 449 capacity constraints continue
+  - Template ready; synthesis across 5 instructor variants completed
+  - Learning target: L→C→E (all three levels)
+
+### 3. Faculty Development Support
+- Training for 6 course enhancements (BADM 210, 211, 275, 300, 310, 320)
+- Google partnership coordination for faculty development
+- Spring 2026 timeline to prepare for Fall 2026 launch
+
+### 4. Resource Allocation
+- Course development stipends for new courses
+- Technology access (ChatGPT Enterprise, AI tools for student use)
+- Assessment framework development
+
+**Timeline for Decision:** Spring 2026 (Q1) to enable Fall 2026 implementation
+
+---
+
+## Quick Start for Leadership (3-Minute Read Pathway)
+
+**Goal:** Understand the proposal and be ready to discuss at leadership meeting
+
+### Step 1: Read Above (2 minutes)
+- Executive Brief → what we're proposing
+- Key Decisions Required → what needs approval
+
+### Step 2: Scan Strategic Context (1 minute)
+- Scroll to **[Strategic Context](#strategic-context)** below to understand the three AI tracks
+- Review **[Implementation Timeline](#implementation-timeline)** to see our current phase
+
+### Step 3: Optional Deep Dive (20-30 minutes)
+If you want more detail before the meeting:
+1. **[AI Integration Strategy](AI_INTEGRATION_STRATEGY.html)** — Read sections 1-4 for full strategic rationale
+2. **[Core Matrix](UNDERGRAD_CORE_AI_MATRIX.html)** — See which courses need what enhancements
+3. **[Curriculum Evolution](CURRICULUM_EVOLUTION.html)** — Understand the 3-tier growth plan
+
+**Questions before the meeting?** See detailed peer comparisons, faculty support plans, and governance framework in the [AI Integration Strategy](AI_INTEGRATION_STRATEGY.html).
+
+---
+
 ## Overview
 
 This repository contains strategic planning and curriculum design documents for integrating artificial intelligence into the Gies College of Business undergraduate core curriculum. The work directly supports the **Gies AI Curriculum Task Force** mandate (Fall 2025) with a target implementation date of **Fall 2026**.
