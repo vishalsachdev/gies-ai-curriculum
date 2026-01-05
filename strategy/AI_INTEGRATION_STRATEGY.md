@@ -563,6 +563,192 @@ Gies provides business-context foundational electives for campus AI Fundamentals
 
 ---
 
+## Part 10.1: BADM Curriculum Evolution Strategy
+
+### Current State: BADM Core Curriculum (7 Courses)
+
+The BADM core curriculum provides **strong foundational AI coverage** across three tracks:
+
+| Course | Track | L-C-E Level | Status |
+|--------|-------|-------------|--------|
+| BADM 210: Business Analytics I | AI Basics | L→C | ✅ Has AI |
+| BADM 211: Business Analytics II | Agentic Systems | C | ✅ Has AI |
+| BADM 275: Operations Management | Agentic Systems | C | 📋 Needs integration |
+| BADM 300: Legal Environment | Human Centric | L→C | ❌ No AI |
+| BADM 310: Management & Org Behavior | Human Centric | L→C | ❌ No AI |
+| BADM 320: Principles of Marketing | Agentic Systems | C | ❌ No AI |
+| BADM 449: Business Policy & Strategy | Agentic Systems | C→E | ⚠️ Case-based |
+
+**Analysis:** 7 courses, ~4,500 undergraduate students, strong entry-level coverage but critical gaps at advanced and governance levels.
+
+### Strategic Gaps Identified
+
+**1. Expertise Level Bottleneck**
+- Only **1 expertise-level course** (BADM 449) for 4,500+ students
+- Creates pathway problem: Students reach competency level but have limited "advanced" options
+- **Impact:** Limits ability to develop "1,000 AI Leaders" goal
+
+**2. Human Centric AI Underweighting**
+- Only **2 courses** in governance/ethics/workforce track despite strategic importance
+- BADM 300 and 310 lack AI-specific content
+- **Impact:** Graduates unprepared for governance-conscious business environment
+
+**3. No Dedicated AI Governance Course**
+- As regulatory acceleration continues (EU AI Act, US executive orders, GDPR), governance becomes critical
+- **Competitive Gap:** Peers have not yet built governance focus; Gies opportunity for differentiation
+- **Market Signal:** 40% of prospective students expect AI in curriculum; governance is increasingly demand-driver
+
+**4. No Custom AI Development Pathway**
+- Students learn AI concepts but lack hands-on "build and deploy" skills
+- Gap between theory (BADM 210/211) and application (BADM 275/320)
+- **Impact:** Limits competitive positioning; employers want "AI practitioners" not just "AI literate"
+
+### Recommended Solution: Tiered Course Evolution
+
+**See detailed analysis in `CURRICULUM_EVOLUTION.md`** for full course designs, learning outcomes, faculty assignments, and implementation timeline.
+
+#### **Tier 1: IMMEDIATE (Fall 2026 Pilot) — 3 New Courses + 5 Redesigns**
+
+**New Courses:**
+
+| Course | Level | Track | L-C-E | Rationale |
+|--------|-------|-------|-------|-----------|
+| **BADM 315: AI Governance & Responsible Business** | 300 | Human Centric | L→C | Fills critical governance gap; differentiates Gies |
+| **BADM 212: AI Tools for Business Problem Solving** | 200 | AI Basics→Agentic | C | Bridges literacy→competency; hands-on tools focus |
+| **BADM 410: AI Strategy & Competitive Advantage** | 400 | Agentic Systems | C→E | Rename BADM 449; positions AI-first strategy |
+
+**Existing Course Redesigns (Low-Effort Updates):**
+- BADM 210 → "AI Fundamentals for Business" (marketing refresh + strengthen AI lab)
+- BADM 211 → "Machine Learning for Business" (ML emphasis; reorder content)
+- BADM 275 → Add AI/ML supply chain modules (demand forecasting, automation)
+- BADM 320 → Add AI personalization & ethics modules (recommendation systems, content generation)
+- BADM 300/310 → Cross-reference new BADM 315; add AI governance/workforce impact content
+
+**Projected Impact (Fall 2026):**
+- ~2,000 students reach expertise pathway (through BADM 410)
+- ~1,500 students take new governance/tools courses
+- 100% of BADM core students encounter AI (currently ~60%)
+
+---
+
+#### **Tier 2: SPRING 2027 — 1 New Course**
+
+| Course | Level | Track | L-C-E | Why This Matters |
+|--------|-------|-------|-------|------------------|
+| **BADM 311: AI & Workforce Transformation** | 300 | Human Centric | L→C | Addresses McKinsey finding: "Fear of job displacement" is #1 barrier to AI adoption |
+
+**Content Focus:** Job displacement projections, reskilling pathways, human-AI collaboration design, change management, equity in AI transition
+
+---
+
+#### **Tier 3: FUTURE (2028+) — Advanced Electives & Specializations**
+
+**BADM 420: Practical AI Development** (400-level, Expertise)
+- Low-code/no-code platforms (Make.com, Zapier, Azure Logic Apps)
+- Production-ready portfolio projects
+- Prerequisites: BADM 212, BADM 211
+
+**BADM 421-series: AI in [Domain] Specializations** (400-level, Expertise)
+- BADM 421F: AI in Finance (algorithmic trading, fraud detection, portfolio optimization)
+- BADM 421M: AI in Marketing (customer lifetime value, personalization, churn prediction)
+- BADM 421O: AI in Operations (demand forecasting, supplier optimization, quality control)
+- BADM 421H: AI in HR (talent acquisition, retention prediction, compensation optimization)
+
+---
+
+### Strategic Alignment: How New Curriculum Supports "Big Ideas"
+
+| Strategic Goal | How New Curriculum Supports It |
+|----------------|--------------------------------|
+| **100% AI-Ready** | BADM 210 (renamed), BADM 212 ensure all students get applied skills |
+| **10X Research Impact** | BADM 410, 315, 311 train faculty + students to lead AI research |
+| **GenAI in Every Course** | Tier 1 redesigns integrate AI across 275, 320, 300, 310 |
+| **50 Industry Partnerships** | BADM 420, 421-series create venues for company projects/sponsorships |
+| **1,000 AI Leaders** | BADM 315, 311, 410, 420, 421 create structured "AI Leadership Track" |
+| **Triple AI Return** | BADM 315, 311 teach governance + ROI; BADM 410 teaches strategy |
+| **Zero AI Barriers** | BADM 315 makes governance accessible; BADM 212 makes tools accessible |
+
+---
+
+### Competitive Positioning
+
+**How Gies Differentiates:**
+
+| Element | Gies (Proposed) | Peer Benchmark | Advantage |
+|---------|-----------------|-----------------|-----------|
+| **AI Governance Course** | BADM 315 (NEW) | None at Haas, Ross, Foster | ✅ Unique positioning |
+| **Hands-on AI Tools** | BADM 212 (NEW) | Limited (mostly theory) | ✅ Practical focus |
+| **Expertise Courses** | 4-5 options | 1-2 at most peers | ✅ Clear pathway |
+| **AI Strategy Capstone** | BADM 410 | Generic policy at Berkeley | ✅ AI-focused variant |
+| **Workforce AI** | BADM 311 (NEW) | Not standard offering | ✅ Future-proofing |
+
+**Messaging to Recruitment:** "Gies graduates lead responsible AI adoption" + "AI across business functions, not just analytics"
+
+---
+
+### L-C-E Distribution: Current vs. Projected
+
+**Current State:**
+- Literacy: 3 courses | Competency: 6 courses | **Expertise: 1 course** ← Bottleneck
+
+**After Full Implementation (2027+):**
+- Literacy: 5 courses | Competency: 10 courses | **Expertise: 4-5 courses** ← Balanced pathway
+
+---
+
+### Leadership Decision Points
+
+**Q1 2026 Decisions Required:**
+
+1. **Approve Tier 1 courses (BADM 315, 212, 410)?**
+   - **Risk of not approving:** Fall 2026 enrollment expectations set; delays expertise pathway development
+   - **Resource requirement:** Minimal (internal faculty + curriculum design support)
+   - **Decision window:** February 2026
+
+2. **Rename courses (210, 211) for marketing clarity?**
+   - **Benefit:** Immediate signal of AI commitment to employers + students
+   - **Effort:** Minimal (1-2 days administrative work)
+   - **Decision window:** February 2026
+
+3. **Integrate AI into BADM 275, 320, 300, 310?**
+   - **Benefit:** Reaches 3,500+ students immediately with AI content
+   - **Effort:** 40-60 hours faculty time (spread across 4 courses, over Spring 2026)
+   - **Decision window:** January 2026
+
+4. **Faculty teaching assignments for new courses?**
+   - **BADM 315:** Who teaches AI Governance? (Legal faculty? External hire?)
+   - **BADM 212:** Who assists with hands-on labs?
+   - **BADM 410:** How much redesign effort for current 449 faculty?
+   - **Decision window:** March 2026
+
+---
+
+### Implementation Timeline Summary
+
+| Phase | Timing | Actions | Capacity Impact |
+|-------|--------|---------|------------------|
+| **Course Design** | Spring 2026 | Design BADM 315, 212; redesign BADM 410, 275, 320 | 40-60 hours faculty |
+| **Tier 1 Launch** | Fall 2026 | Launch BADM 315, 212, 410 + integrate AI in 275, 320 | 2 new courses, 1 redesign, 2 updates |
+| **Tier 2 Launch** | Spring 2027 | Launch BADM 311; refine Tier 1 based on feedback | 1 new course |
+| **Tier 3 Planning** | 2027-2028 | Design BADM 420, 421-series electives | Planning phase |
+| **Tier 3 Launch** | 2028+ | Offer BADM 420, 421F, 421M, etc. rolling | Electives (minimal core impact) |
+
+---
+
+### Success Metrics
+
+- **100% of BADM majors take ≥2 AI courses** (currently ~60%)
+- **≥30% of BADM majors take ≥4 AI courses** (currently ~5%)
+- **"AI competency" is required credential** in Gies curriculum (not optional elective)
+- **Peer schools reference Gies AI governance approach** as national model
+- **Employer satisfaction:** Graduates demonstrate hands-on AI skills + governance awareness
+
+---
+
+**Next Step:** Proceed to Part 11 (Academic Integrity & Assessment) to establish governance framework for all new AI courses.
+
+---
+
 ## Part 11: Academic Integrity & Assessment Considerations
 
 ### Key Considerations for Implementation
