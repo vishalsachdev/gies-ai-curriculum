@@ -207,17 +207,28 @@ Strategic plan for creating 5-7 new courses and enhancing existing courses to bu
 
 ## Strategic Context
 
+### L-C-E Skills Progression Framework
+
+All AI learning follows a three-level progression adapted from UNESCO AI Competency Framework:
+
+| Level | Definition | What Students Do | Example Action Verbs |
+|-------|------------|------------------|---------------------|
+| **Literacy (L)** | Foundational understanding of AI concepts, capabilities, and limitations | Understand, explain, identify, recognize AI systems and their applications | Define, Explain, Identify, Recognize |
+| **Competency (C)** | Applied skills using AI tools to solve business problems | Apply AI tools, analyze outputs, evaluate results, design solutions | Apply, Use, Design, Evaluate, Analyze |
+| **Expertise (E)** | Advanced development and leadership in AI strategy | Create AI strategies, lead initiatives, develop policies, formulate solutions | Create, Develop, Lead, Formulate |
+
+**Progression Example:** A student might start by *defining* what ChatGPT is (Literacy), then *apply* it to analyze business data (Competency), and finally *develop* an AI governance framework for their organization (Expertise).
+
+**Read more:** [Sample AI Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html) shows specific L-C-E outcomes for each course.
+
+---
+
 ### Campus AI Framework (3 Tracks)
 1. **Track 1: AI Basics/Fundamentals** — What AI is, capabilities, limitations
 2. **Track 3: Agentic Systems & Workflows** — AI agents, automation, business applications
 3. **Track 4: Human Centric AI** — Ethics, governance, responsible use, societal impact
 
 *Note: Track 2 (AI & ML Technologies) focuses on technical implementation, model training, and engineering principles—skills primarily covered in computer science and engineering curricula. Business core emphasizes application, strategy, and responsible use rather than technical development.*
-
-### Skills Progression (UNESCO-adapted)
-- **Literacy** — Foundational concepts
-- **Competency** — Applied skills in business contexts
-- **Expertise** — Advanced development and leadership
 
 ---
 
