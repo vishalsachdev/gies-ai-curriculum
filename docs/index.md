@@ -25,7 +25,7 @@
 
 **What We're Asking For:**
 - Approve **2 new courses**: BADM 315 (AI Governance), BADM 212 (AI Tools)
-- Support **1 enhanced course**: BADM 350 "Technology and AI Strategy" (potential BADM 449 capstone replacement)
+- Support **1 enhanced course**: BADM 350 "Technology and AI Strategy" (alternative if new courses not feasible)
 - Enable **6 course enhancements**: AI modules in BADM 210, 211, 275, 300, 310, 320
 
 **Current Status:** 3 of 8 courses ready; 5 need enhancement by Fall 2026
@@ -50,7 +50,7 @@ Leadership approval needed for:
 ### 2. Course Enhancement
 - **BADM 350: Technology and AI Strategy** (enhanced, not new)
   - Existing course with AI strategy content added
-  - Could serve as capstone alternative if BADM 449 capacity constraints continue
+  - Alternative to creating a new course if additional course creation is not feasible
   - Template ready; synthesis across 5 instructor variants completed
   - Learning target: L→C→E (all three levels)
 
