@@ -1,7 +1,8 @@
 # BADM 350: Course Redesign & Rebranding
 
-**Date:** January 4, 2026
+**Date:** January 5, 2026
 **Purpose:** Proposed new name, description, and focus for BADM 350 to emphasize AI strategy positioning
+**Status:** ✅ Synthesis complete (5 instructors analyzed), common template ready
 
 ---
 
@@ -14,30 +15,33 @@
 | **Description** | IT impact on modern organizations, emerging technologies | ⚠️ Vague, no AI emphasis |
 | **Learning Focus** | Information systems strategy | ⚠️ Pre-AI era framing |
 | **Capstone Type** | General IT project | ⚠️ Could be AI-specific |
+| **Faculty Consensus** | High (5 instructors analyzed) | ✅ Ready for standardization |
 
 ---
 
 ## Recommended Rebranding
 
-### Option 1: **RECOMMENDED** — "IT & AI Strategy for Competitive Advantage"
+### **SELECTED: "Technology and AI Strategy"**
 
 **New Title:**
-> **BADM 350: IT & AI Strategy for Competitive Advantage**
+> **BADM 350: Technology and AI Strategy**
 
 **New Course Description:**
-> How do organizations create sustainable competitive advantage through information technology and artificial intelligence? This strategic capstone course examines how emerging technologies—including AI, platforms, cloud computing, and data systems—reshape industries, disrupt business models, and transform organizational structures.
+> How do organizations create sustainable competitive advantage through technology and artificial intelligence? This strategic capstone course examines how emerging technologies—including generative AI, platform ecosystems, cloud computing, and data systems—reshape industries, disrupt incumbents, and create new market leaders.
 >
-> Students will analyze real companies (Tesla, Amazon, Netflix, Google, OpenAI, Airbnb) to understand how strategic technology adoption creates winning positions. Through case studies, data analysis with Tableau, and team projects, students will develop frameworks for assessing technology readiness, designing transformation roadmaps, and communicating technology strategy to boards and executives.
+> Through in-depth case studies of technology winners and losers (Tesla, Amazon, Netflix, Google, OpenAI, Blockbuster, Kodak), students develop strategic frameworks for evaluating technology opportunities and threats. The course emphasizes practical application: students analyze real companies using Tableau, design AI transformation roadmaps, and present strategic recommendations to simulated executive audiences.
 >
-> This course is designed for students seeking careers in technology strategy, innovation leadership, or AI-driven competitive positioning.
+> Key questions explored: When should organizations adopt emerging technologies? How do platforms create winner-take-all dynamics? What makes AI initiatives succeed or fail? How do you communicate technology strategy to non-technical executives?
+>
+> This course prepares students for careers in technology strategy, management consulting, product management, or leadership roles requiring technology fluency.
 
 **Why This Works:**
+- ✅ **Concise title** - fits on transcript without truncation
 - ✅ **Signals AI focus** to students and employers
 - ✅ **Emphasizes "strategy"** (board-level thinking, not tactical)
-- ✅ **Includes "competitive advantage"** (the business value proposition)
-- ✅ **Broad enough** to encompass IT/AI (future-proof)
-- ✅ **Clear capstone positioning** (senior/strategic)
-- ✅ Differentiates from generic "technology survey" perception
+- ✅ **Drops "IT"** - "Technology" is more contemporary than "Information Technology"
+- ✅ **Future-proof** - remains relevant as AI evolves
+- ✅ **Faculty consensus** - synthesis of 5 instructor variants supports this direction
 
 ---
 
@@ -83,64 +87,62 @@
 
 ---
 
-## Recommendation: **Option 1**
+## Final Recommendation
 
 **Selected Title:**
 ```
-BADM 350: IT & AI Strategy for Competitive Advantage
+BADM 350: Technology and AI Strategy
 ```
 
 **Selected Description:**
 ```
-How do organizations create sustainable competitive advantage through information
-technology and artificial intelligence? This strategic capstone course examines how
-emerging technologies—including AI, platforms, cloud computing, and data systems—
-reshape industries, disrupt business models, and transform organizational structures.
+How do organizations create sustainable competitive advantage through technology and
+artificial intelligence? This strategic capstone course examines how emerging technologies—
+including generative AI, platform ecosystems, cloud computing, and data systems—reshape
+industries, disrupt incumbents, and create new market leaders.
 
-Students will analyze real companies (Tesla, Amazon, Netflix, Google, OpenAI, Airbnb)
-to understand how strategic technology adoption creates winning positions. Through case
-studies, data analysis with Tableau, and team projects, students will develop frameworks
-for assessing technology readiness, designing transformation roadmaps, and communicating
-technology strategy to boards and executives.
+Through in-depth case studies of technology winners and losers (Tesla, Amazon, Netflix,
+Google, OpenAI, Blockbuster, Kodak), students develop strategic frameworks for evaluating
+technology opportunities and threats. The course emphasizes practical application: students
+analyze real companies using Tableau, design AI transformation roadmaps, and present
+strategic recommendations to simulated executive audiences.
 
-This course is designed for students seeking careers in technology strategy, innovation
-leadership, or AI-driven competitive positioning.
+Key questions explored: When should organizations adopt emerging technologies? How do
+platforms create winner-take-all dynamics? What makes AI initiatives succeed or fail?
+How do you communicate technology strategy to non-technical executives?
+
+This course prepares students for careers in technology strategy, management consulting,
+product management, or leadership roles requiring technology fluency.
 ```
 
-### Why Option 1 is Best
+### Why This Title is Best
 
-1. **Concise & Clear:** Title fits on transcript and course schedule without truncation
-2. **Balanced AI Emphasis:** Signals AI without implying AI is only focus
-3. **Strategic Framing:** "Strategy for Competitive Advantage" = board-level thinking
-4. **Broad Appeal:** Attracts students interested in technology strategy generally
-5. **Future-Proof:** Remains relevant if priorities shift (technology is core, AI is one example)
-6. **Brand Alignment:** Fits with "AI-Ready" messaging for Gies
-7. **Employer Signal:** Signals students understand AI's strategic implications
+1. **Concise & Clear:** "Technology and AI Strategy" fits on transcript without truncation
+2. **Contemporary:** Uses "Technology" instead of dated "IT" or "Information Technology"
+3. **Strategic Framing:** Emphasizes strategy (board-level thinking), not just technology survey
+4. **Faculty Consensus:** Built on synthesis of 5 instructor variants with high agreement
+5. **Future-Proof:** Remains relevant as AI evolves (AI is positioned alongside technology broadly)
+6. **Brand Alignment:** Fits with Gies "AI-Ready" messaging
+7. **Employer Signal:** Students understand AI's strategic implications in business context
 
 ---
 
-## Updated Learning Outcomes (For New Title)
+## Updated Learning Outcomes (Synthesized from 5 Instructors)
 
 ### Upon completion, students will be able to:
 
-**Literacy Level:**
-1. Explain how emerging technologies (AI, platforms, cloud, data systems) drive competitive advantage
-2. Identify strategic opportunities and threats from technology disruption
-3. Recognize organizational readiness factors for technology/AI adoption
-4. Describe major technology trends affecting their industry
+**Literacy Level (2 outcomes):**
+1. Explain how information technology and AI create sustainable competitive advantage using established strategic frameworks (Porter, resource-based view, network effects)
+2. Identify opportunities for technology-driven disruption and platform-based business models in traditional industries
 
-**Competency Level:**
-1. Analyze real companies' technology/AI strategies using strategic frameworks
-2. Assess organizational capabilities for technology/AI transformation
-3. Develop strategic recommendations for technology adoption and implementation
-4. Evaluate trade-offs in technology strategy (innovation speed vs. risk management)
-5. Visualize business data using Tableau and derive strategic insights
+**Competency Level (3 outcomes):**
+3. Analyze real companies' AI and technology strategies, evaluating their strategic positioning, risks, and implementation readiness
+4. Apply data visualization and business intelligence tools to support strategic technology decisions
+5. Evaluate emerging technologies (generative AI, cloud computing, automation) for strategic fit within organizational contexts
 
-**Expertise Level (Team Projects):**
-1. Create comprehensive technology/AI transformation strategies for organizations
-2. Lead cross-functional strategy discussions with realistic assessment of readiness, risks, and opportunities
-3. Communicate technology strategy to board-level executives (via presentation)
-4. Design implementation roadmaps with realistic timelines and resource requirements
+**Expertise Level (2 outcomes):**
+6. Design comprehensive AI transformation roadmaps that address technical feasibility, organizational readiness, and competitive dynamics
+7. Communicate technology strategy recommendations to executive leadership with clear articulation of value propositions, risks, and implementation pathways
 
 ---
 
@@ -218,7 +220,7 @@ leadership, or AI-driven competitive positioning.
 
 ## New Course Syllabus Summary (Shortened)
 
-### BADM 350: IT & AI Strategy for Competitive Advantage
+### BADM 350: Technology and AI Strategy
 
 **Semester:** Fall 2026 (Pilot) | **Credits:** 3 | **Level:** 300 (Junior/Senior)
 
@@ -300,21 +302,28 @@ By completion, students will:
 
 ```
 FROM: BADM 350: IT for Networked Organizations
-TO:   BADM 350: IT & AI Strategy for Competitive Advantage
+TO:   BADM 350: Technology and AI Strategy
 ```
 
 This rebranding:
 - ✅ Signals AI expertise to students and employers
 - ✅ Emphasizes strategic (board-level) thinking
-- ✅ Maintains institutional knowledge and proven curriculum
+- ✅ Maintains institutional knowledge and proven curriculum (5 instructors analyzed)
 - ✅ Positions as clear capstone for AI integration
-- ✅ Differentiates from generic "technology survey"
-- ✅ Future-proofs course (AI + IT strategy remain relevant)
+- ✅ Uses contemporary "Technology" instead of dated "IT"
+- ✅ Future-proofs course (technology + AI strategy remain relevant)
+- ✅ Faculty consensus already exists on 80%+ of content
 
-**Next Step:** Present new title and description to Gies leadership and faculty for feedback before Fall 2026 launch.
+**Deliverables:**
+- `badm350/data/extracted_llm/badm350_common_template.json` — Machine-readable template
+- `badm350/BADM350_LEADERSHIP_SUMMARY.md` — Executive brief for leadership
+- `badm350/BADM350_SYNTHESIS_REPORT.md` — Detailed technical analysis
+- `badm350/SYNTHESIS_OUTPUTS_GUIDE.md` — How to use the outputs
+
+**Next Step:** Present common template and synthesis findings to BADM 350 instructors and program leadership for approval before Fall 2026 launch.
 
 ---
 
-*Course Redesign Prepared: January 4, 2026*
+*Course Redesign Prepared: January 5, 2026*
 *For: Gies AI Curriculum Task Force*
-*Context: BADM 350 Restoration & Enhancement*
+*Context: BADM 350 Restoration & Enhancement (Synthesis of 5 Instructor Variants)*

@@ -142,11 +142,12 @@ Students progress through three levels:
 - Evaluate ethical implications (privacy)
 - Use generative AI for content
 
-### BADM 350 (proposed): IT & AI Strategy
-- Analyze how AI creates competitive advantage
-- Assess organizational AI readiness
-- Design AI transformation strategies
-- Communicate strategy to executives
+### BADM 350: Technology and AI Strategy
+- Explain how technology and AI create sustainable competitive advantage
+- Analyze real companies' AI and technology strategies
+- Evaluate emerging technologies for strategic fit
+- Design AI transformation roadmaps
+- Communicate technology strategy to executive leadership
 
 ### [CS 105](courses/105.html): Intro Computing: Non-Tech
 - Explain algorithms' relation to AI/ML

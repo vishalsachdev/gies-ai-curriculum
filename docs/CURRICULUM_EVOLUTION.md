@@ -1,10 +1,9 @@
-[Home](index.html) | [AI Strategy](AI_INTEGRATION_STRATEGY.html) | [Core Matrix](UNDERGRAD_CORE_AI_MATRIX.html) | [Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html) | [Curriculum Evolution](CURRICULUM_EVOLUTION.html) | [Courses](courses.html)
-
----
-
 # Curriculum Evolution: New Courses & Course Redesigns
 
-**Date:** January 4, 2026 | **Scope:** BADM Core Curriculum Enhancement Strategy | **Framework:** Literacy-Competency-Expertise (L-C-E) Progression
+**Date:** January 4, 2026
+**Prepared For:** Gies AI Curriculum Task Force
+**Scope:** BADM Core Curriculum Enhancement Strategy
+**Framework:** Literacy-Competency-Expertise (L-C-E) Progression
 
 ---
 
@@ -18,60 +17,38 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 - **No custom AI development pathway** (prompt engineering, API integration, low-code platforms)
 - **Limited vertical specialization** (AI in Finance, AI in Operations, etc.)
 
-**Recommendation:** Add 5-7 new courses and rename 4-5 existing courses to create a comprehensive AI leadership program.
+**Recommendation:** Add 4-5 new courses, enhance BADM 350 to "Technology and AI Strategy," and rename 4-5 existing courses to create a comprehensive AI leadership program.
 
 ---
 
 ## 📊 Current State Analysis
 
 ### L-C-E Distribution
+| Level | Count | Courses |
+|-------|-------|---------|
+| **Literacy** | 3 | BADM 210, BADM 310, BADM 300 |
+| **Competency** | 6 | BADM 210, BADM 211, BADM 275, BADM 310, BADM 320, BADM 300, BADM 449 |
+| **Expertise** | 1 | BADM 449 |
 
-<table>
-<thead>
-<tr><th>Level</th><th>Count</th><th>Courses</th></tr>
-</thead>
-<tbody>
-<tr><td>Literacy</td><td>3</td><td>BADM 210, BADM 310, BADM 300</td></tr>
-<tr><td>Competency</td><td>6</td><td>BADM 210, BADM 211, BADM 275, BADM 310, BADM 320, BADM 300, BADM 449</td></tr>
-<tr><td>Expertise</td><td>1</td><td>BADM 449</td></tr>
-</tbody>
-</table>
-
-**⚠️ Gap:** Only 1 expertise-level course for 4,500+ undergraduates annually.
-
----
+**Gap:** Only 1 expertise-level course for 4,500+ undergraduates annually.
 
 ### Track Distribution
+| Track | Count | Courses |
+|-------|-------|---------|
+| **AI Basics** | 2 | BADM 210, (no others) |
+| **Agentic Systems** | 4 | BADM 211, BADM 275, BADM 320, BADM 449 |
+| **Human Centric AI** | 2 | BADM 300, BADM 310 |
 
-<table>
-<thead>
-<tr><th>Track</th><th>Count</th><th>Courses</th></tr>
-</thead>
-<tbody>
-<tr><td>AI Basics</td><td>2</td><td>BADM 210, (no others)</td></tr>
-<tr><td>Agentic Systems</td><td>4</td><td>BADM 211, BADM 275, BADM 320, BADM 449</td></tr>
-<tr><td>Human Centric AI</td><td>2</td><td>BADM 300, BADM 310</td></tr>
-</tbody>
-</table>
-
-**⚠️ Gap:** Human Centric AI underrepresented relative to strategic importance.
-
----
+**Gap:** Human Centric AI underrepresented relative to strategic importance.
 
 ### Curricular Level Distribution
+| Level | Count | Courses |
+|-------|-------|---------|
+| **200-level (Foundation)** | 3 | BADM 210, BADM 211, BADM 275 |
+| **300-level (Intermediate)** | 3 | BADM 310, BADM 320, BADM 300 |
+| **400-level (Advanced)** | 1 | BADM 449 |
 
-<table>
-<thead>
-<tr><th>Level</th><th>Count</th><th>Courses</th></tr>
-</thead>
-<tbody>
-<tr><td>200-level (Foundation)</td><td>3</td><td>BADM 210, BADM 211, BADM 275</td></tr>
-<tr><td>300-level (Intermediate)</td><td>3</td><td>BADM 310, BADM 320, BADM 300</td></tr>
-<tr><td>400-level (Advanced)</td><td>1</td><td>BADM 449</td></tr>
-</tbody>
-</table>
-
-**⚠️ Gap:** Thin advanced course offerings; expertise pathway unclear.
+**Gap:** Thin advanced course offerings; expertise pathway unclear.
 
 ---
 
@@ -142,38 +119,38 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 
 ---
 
-#### **3. BADM 410: AI Strategy & Competitive Advantage** (Rename BADM 449)
-- **Current:** BADM 449 - Business Policy & Strategy
-- **Proposed:** Rebrand as "AI Strategy & Organizational Transformation"
-- **Level:** 400 (Senior capstone)
+#### **3. BADM 350: Technology and AI Strategy** (Restore & Enhance)
+- **Current:** BADM 350 - IT for Networked Organizations (elective)
+- **Proposed:** Restore to core curriculum as "Technology and AI Strategy"
+- **Level:** 300 (Junior/Senior)
 - **Track:** Agentic Systems
-- **L-C-E Target:** Competency → Expertise
+- **L-C-E Target:** Literacy → Competency → Expertise
 - **Credits:** 3
 
 **Strategic Rationale:**
-- Course already covers strategy; making AI focus explicit positions Gies as AI-first
-- Signals to employers and students that strategy = AI strategy
-- Differentiates from generic "business policy" courses at other schools
-- Capstone course is perfect venue for comprehensive AI transformation strategy project
-- Aligns with Haas (Berkeley) positioning
+- ✅ **Synthesis of 5 instructor variants** shows high consensus (80%+) on content
+- ✅ Course already covers technology strategy; AI enhancement leverages existing expertise
+- ✅ More efficient than creating new BADM 410 (proven curriculum, trained faculty)
+- ✅ Signals to employers that Gies graduates understand technology + AI strategy
+- ✅ Common template ready for Fall 2026 implementation
 
-**New Course Focus:**
-- **Week 1-3:** How AI creates/disrupts competitive advantage; technology adoption S-curves; case studies (Tesla, Google, Amazon, Stripe)
-- **Week 4-6:** Organizational readiness for AI (talent needs, infrastructure, data maturity); failure modes of AI adoption
-- **Week 7-9:** AI-enabled business model innovation; examples across industries
-- **Week 10-12:** Capstone: Students design AI transformation strategy for assigned company
-  - Board-ready executive summary
-  - Technical feasibility assessment
-  - Organizational change management
-  - Risk/governance framework
+**Updated Course Focus (16 weeks):**
+- **Weeks 1-6:** Technology strategy foundations, competitive advantage, platforms, disruption (Netflix case)
+- **Weeks 7-10:** Data, visualization (Tableau), business intelligence, cloud computing
+- **Weeks 11-12:** Midterm integration, governance, security, ethics
+- **Weeks 13-15:** **AI module (expanded from 1 to 3 weeks):** AI fundamentals, AI case studies (Tesla, Amazon, OpenAI), AI as strategic disruptor
+- **Week 16:** Capstone project presentations (IT transformation OR AI transformation track)
 
-**Learning Outcomes (C→E):**
-- **Competency:** Analyze competitive positioning using AI; evaluate AI adoption readiness; formulate strategic choices
-- **Expertise:** Create transformation strategies; lead cross-functional AI initiatives; innovate business models
+**Learning Outcomes (L-C-E Balanced):**
+- **Literacy (2):** Explain competitive advantage frameworks; identify disruption opportunities
+- **Competency (3):** Analyze companies' strategies; apply data visualization; evaluate emerging technologies
+- **Expertise (2):** Design AI transformation roadmaps; communicate to executive leadership
 
-**Who Should Teach:** Current 449 instructor with reinforced AI focus
+**Who Should Teach:** Current BADM 350 instructors (Ghoshal, Gokhale, Pant, Sachdev, Subramanyam)
 
-**Implementation Timeline:** Summer 2026 course redesign → Fall 2026 launch as BADM 410
+**Implementation Timeline:** Common template ready now → Faculty review Q1 2026 → Fall 2026 launch
+
+**Note:** This replaces the proposed BADM 410. Analysis showed BADM 350 enhancement is more efficient than creating a new course.
 
 ---
 
@@ -380,11 +357,11 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 ### **Fall 2026: Launch New Tier 1 Courses**
 - **Launch BADM 315:** AI Governance & Responsible Business
 - **Launch BADM 212:** AI Tools for Business Problem Solving
-- **Rename/Launch BADM 410:** AI Strategy & Competitive Advantage (from 449)
+- **Restore/Enhance BADM 350:** Technology and AI Strategy (common template ready)
 - Implement AI content in BADM 275, 320
 
-**Capacity:** Manageable (2 new courses, 1 significant redesign, 2 content updates)
-**Impact:** ~2,000 students reach expertise pathway; ~1,500 take BADM 315/212
+**Capacity:** Manageable (2 new courses, 1 course restoration with enhancement, 2 content updates)
+**Impact:** ~2,000 students reach expertise pathway; ~1,500 take BADM 315/212; all BADM majors take enhanced BADM 350
 
 ---
 
@@ -430,9 +407,10 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 
 ### **Q1 2026 Decisions Required**
 
-1. **Approve Tier 1 Courses (BADM 315, 212, 410)?**
+1. **Approve Tier 1 Courses (BADM 315, 212) and BADM 350 Enhancement?**
    - Risk of not approving: Fall 2026 enrollment expectations set; delays expertise pathway
    - Resource requirement: Minimal (internal faculty + curriculum design support)
+   - BADM 350 common template already prepared (synthesis of 5 instructor variants complete)
 
 2. **Rename Courses (210, 211) for Marketing Clarity?**
    - Benefit: Immediate signal of AI commitment
@@ -442,10 +420,10 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
    - Benefit: Reaches 3,500+ students immediately with AI content
    - Effort: 40-60 hours faculty time (spread across 4 courses)
 
-4. **Faculty Teaching Assignments for New Courses?**
+4. **Faculty Teaching Assignments for New/Enhanced Courses?**
    - BADM 315: Who teaches AI Governance? (Legal faculty? External hiring?)
    - BADM 212: Who assists with hands-on labs?
-   - BADM 410: How much redesign effort for current 449 faculty?
+   - BADM 350: 5 instructors already teaching; common template facilitates coordination
 
 ### **Timeline for Decisions**
 - **February 2026:** Leadership review + approval
@@ -464,7 +442,7 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 | **AI Governance Course** | BADM 315 (NEW) | None at Haas, Ross, Foster | ✅ Unique positioning |
 | **Hands-on AI Tools** | BADM 212 (NEW) | Limited (mostly theory) | ✅ Practical focus |
 | **Expertise Courses** | 4-5 options | 1-2 at most peers | ✅ Clear pathway |
-| **AI Strategy Capstone** | BADM 410 | Generic policy at Berkeley | ✅ AI-focused variant |
+| **Technology & AI Strategy** | BADM 350 (ENHANCED) | Generic policy at Berkeley | ✅ Strategy + AI focus, faculty consensus |
 | **Workforce AI** | BADM 311 (NEW) | Not standard offering | ✅ Future-proofing |
 
 **Messaging for Recruitment:**
@@ -478,8 +456,9 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 
 **Recommended Approach:**
 
-1. **Approve Tier 1 (2026-2027):** BADM 315, 212, 410 + course redesigns
+1. **Approve Tier 1 (Fall 2026):** BADM 315, 212, BADM 350 enhancement + course redesigns
    - Clear win for Fall 2026; establishes momentum
+   - BADM 350 common template already prepared (synthesis complete)
    - Manageable capacity; all courses can be staffed internally
 
 2. **Pursue Tier 2 (Spring 2027):** BADM 311
@@ -490,6 +469,8 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
    - Electives enable specialization
    - Can scale based on demand and faculty availability
 
+**Note:** BADM 410 is no longer proposed. Analysis showed that enhancing existing BADM 350 to "Technology and AI Strategy" is more efficient than creating a new course. See `strategy/BADM_350_ANALYSIS.md` for full rationale.
+
 **Success Metrics:**
 - 100% of BADM majors take ≥2 AI courses (currently ~60%)
 - ≥30% of BADM majors take ≥4 AI courses (currently ~5%)
@@ -498,14 +479,7 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 
 ---
 
-**Related Documents:**
-- [AI Integration Strategy](AI_INTEGRATION_STRATEGY.md) — Overall strategic framework
-- [Undergraduate Core: AI Integration Matrix](UNDERGRAD_CORE_AI_MATRIX.md) — Course-level mappings
-- [Sample AI Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.md) — L-C-E outcome statements
-- [Course Reference](courses.md) — Individual course syllabi
-
----
-
-*Prepared January 4, 2026*
+*Prepared January 5, 2026*
 *For: Gies AI Curriculum Task Force*
 *Part of: Comprehensive AI Integration Strategy*
+*Updated: BADM 350 synthesis complete; BADM 410 recommendation withdrawn in favor of 350 enhancement*
