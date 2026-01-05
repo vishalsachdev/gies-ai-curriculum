@@ -24,3 +24,6 @@ venv/
 .idea/
 .vscode/
 *.sublime-*
+
+# Separate repository (should not be committed here)
+badm-syllabi/
