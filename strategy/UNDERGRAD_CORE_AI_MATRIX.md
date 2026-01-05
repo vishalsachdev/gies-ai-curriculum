@@ -7,7 +7,9 @@
 
 ---
 
-## BADM Courses in Undergraduate Core (Extracted Syllabi Set)
+## Core Courses in Undergraduate Program (Extracted Syllabi Set)
+
+### BADM (Business Administration) Courses
 
 | Code | Title | Hours | Syllabus | Topics | Objectives | Current AI Status |
 |------|-------|-------|----------|--------|------------|-------------------|
@@ -19,9 +21,15 @@
 | [BADM 320](../courses/320.html) | Principles of Marketing | 3 | [View](../courses/320.html) | 13 | 4 | ❌ No AI |
 | [BADM 449](../courses/449.html) | Business Policy and Strategy | 3 | [View](../courses/449.html) | 62 | 3 | ⚠️ Case Study |
 
-**Note:** Full undergraduate core includes 18 courses across 8 departments (BUS, ACCY, FIN, CS, CMN, ECON, MATH/STAT, BADM). This matrix focuses on BADM courses with available extracted syllabi.
+### CS (Computer Science) Courses
 
-**Extraction Status:** All 7 BADM core courses have been extracted and validated. Full course syllabi are available via links above. Course schedules showing topics and learning objectives are now live on GitHub Pages at [gies-ai-curriculum](https://vishalsachdev.github.io/gies-ai-curriculum/).
+| Code | Title | Hours | Syllabus | Topics | Objectives | Current AI Status |
+|------|-------|-------|----------|--------|------------|-------------------|
+| [CS 105](../courses/105.html) | Intro Computing: Non-Tech | 3 | [View](../courses/105.html) | 12 | 6 | ❌ No AI |
+
+**Note:** Full undergraduate core includes 18 courses across 8 departments (BUS, ACCY, FIN, CS, CMN, ECON, MATH/STAT, BADM). This matrix focuses on BADM and CS courses with available extracted syllabi.
+
+**Extraction Status:** All 7 BADM core courses and CS 105 have been extracted and validated. Full course syllabi are available via links above. Course schedules showing topics and learning objectives are now live on GitHub Pages at [gies-ai-curriculum](https://vishalsachdev.github.io/gies-ai-curriculum/).
 
 ---
 
@@ -67,10 +75,10 @@ A course is **AI-Integrated** if it includes at least one of:
 |--------|-------------------|---------------|--------------|----------|------------------------|
 | **BADM 210** | ✅ Has AI | AI Basics | L→C | 🟢 | Already has "LLM & AI Lab" (Week 7); ChatGPT as learning objective |
 | **BADM 211** | ✅ Has AI | Agentic Systems | C | 🟢 | Already has "Introduction to AI Tools" (Week 6); Python + ML |
-| **CS 105** | ❌ None | AI Basics | L | 🟡 | Partner with CS to add AI computing concepts |
-| **STAT/MATH** | ❌ None | AI Basics | L | 🟢 | Connect statistics to AI/ML foundations |
+| **CS 105** | ❌ None | AI Basics | L | 🟡 | Add Python + AI module; emphasize AI in problem-solving context |
+| **STAT/MATH** | ⚠️ Unknown | AI Basics | L | 🟢 | Connect statistics to AI/ML foundations |
 
-**Rationale:** BADM 210/211 are already AI-integrated leaders. Build on this foundation.
+**Rationale:** CS 105 teaches Python fundamentals to non-tech majors—ideal platform to introduce AI concepts and responsible AI practices. BADM 210/211 are already AI-integrated leaders. Build on this foundation.
 
 ---
 

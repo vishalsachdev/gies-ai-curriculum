@@ -257,6 +257,21 @@ Upon completion of this course, students will be able to:
 
 ---
 
+### [CS 105: Intro Computing: Non-Tech](../courses/105.html)
+*L-C-E Target: Literacy (AI Basics)*
+*[View Full Syllabus](../courses/105.html)*
+
+Upon completion of this course, students will be able to:
+1. **Explain** how algorithms and computational thinking relate to AI and machine learning.
+2. **Identify** real-world applications where programming and automation create value.
+3. **Describe** the role of data in computational problem-solving and pattern recognition.
+4. **Recognize** the impact of computational tools (including AI) on decision-making and automation.
+5. **Apply** Python programming principles to implement simple algorithmic solutions.
+
+*Opportunity for AI Integration:* Add a module (Week 11-12) on "AI & Algorithms" showing how the programming concepts learned in CS 105 form the foundation for AI systems, with focus on responsible use and bias awareness.
+
+---
+
 ## Program-Level AI Competency Statement (BADM Core Focus)
 
 **Upon completion of the BADM core curriculum, business undergraduates will be able to:**
@@ -307,5 +322,5 @@ Each learning outcome should be assessed through:
 *Created: January 4, 2026*
 *For: Gies AI Curriculum Task Force*
 *Framework: Literacy-Competency-Expertise (UNESCO-adapted)*
-*Scope: BADM core courses with available extracted syllabi (n=7)*
+*Scope: BADM core courses (n=7) + CS 105 (n=1) with available extracted syllabi*
 *Note: Full undergraduate core includes 18 courses across 8 departments. Outcomes for other departments should be developed with corresponding course syllabi.*
