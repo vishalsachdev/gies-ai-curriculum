@@ -56,7 +56,6 @@ Leadership approval needed for:
 
 ### 3. Faculty Development Support
 - Training for 6 course enhancements (BADM 210, 211, 275, 300, 310, 320)
-- Google partnership coordination for faculty development
 - Spring 2026 timeline to prepare for Fall 2026 launch
 
 ### 4. Resource Allocation
