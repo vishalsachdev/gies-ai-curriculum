@@ -14,9 +14,9 @@ This repository contains strategic planning documents, curriculum analysis, and 
 
 ## Current Focus
 
-> **Phase 2: Curriculum Design (Q1 2026)** - Learning outcomes drafted, matrix complete for BADM core
+> **Phase 2: Curriculum Design (Q1 2026)** - BADM 350 template ready, learning outcomes drafted
 
-Next priority: Faculty development planning and extending outcomes to other departments.
+Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template.
 
 ---
 
@@ -51,6 +51,23 @@ Next priority: Faculty development planning and extending outcomes to other depa
 
 ## Session Log
 
+### 2026-01-05
+- **Completed:**
+  - BADM 350 syllabus synthesis across 5 instructor variants (Ghoshal, Gokhale, Pant, Sachdev, Subramanyam)
+  - Course renamed: "IT & AI Strategy for Competitive Advantage" -> "Technology and AI Strategy"
+  - Created common template: `badm-syllabi/badm350/data/extracted_llm/badm350_common_template.json`
+    - 7 L-C-E balanced learning objectives
+    - 16-week schedule with 3-week AI module (weeks 13-15)
+    - Assessment: 45% exams, 20% project, 20% assignments, 15% participation
+  - Updated BADM_350_REDESIGN.md with synthesis findings
+  - Updated CURRICULUM_EVOLUTION.md (replaced BADM 410 proposal with BADM 350 enhancement)
+  - UNDERGRAD_CORE_AI_MATRIX.md: BADM 350 marked "Template Ready"
+  - 3 commits pushed to GitHub
+- **Next:**
+  - Design Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template
+  - Faculty development planning for Fall 2026
+  - Extend outcomes to other departments (BUS, ACCY, FIN)
+
 ### 2026-01-04
 - **Completed:**
   - AI curriculum integration matrix for BADM core (7 courses)
@@ -79,6 +96,7 @@ Next priority: Faculty development planning and extending outcomes to other depa
 | `strategy/SAMPLE_AI_LEARNING_OUTCOMES.md` | L-C-E learning outcomes |
 | `badm-syllabi/` | Syllabus extraction data |
 | `badm-syllabi/data/course_metadata.json` | 131 courses with AI status |
+| `badm-syllabi/badm350/` | BADM 350 synthesis (5 variants -> common template) |
 
 ---
 
@@ -89,4 +107,4 @@ Next priority: Faculty development planning and extending outcomes to other depa
 
 ---
 
-*Last Updated: January 4, 2026*
+*Last Updated: January 5, 2026*
