@@ -1,3 +1,7 @@
+[Home](index.html) | [AI Strategy](AI_INTEGRATION_STRATEGY.html) | [Core Matrix](UNDERGRAD_CORE_AI_MATRIX.html) | [Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html) | [Curriculum Evolution](CURRICULUM_EVOLUTION.html) | [Courses](courses.html)
+
+---
+
 # Gies College of Business: AI Curriculum Integration
 
 **Leadership Summary** — January 2026
@@ -53,6 +57,20 @@ Learning outcome statements across three AI tracks and three L-C-E levels.
 Links to extracted course syllabi (JSON format) for all BADM core courses analyzed.
 
 **Audience:** Anyone wanting to review underlying course data
+
+---
+
+### 5. **[Curriculum Evolution: New Courses & Course Redesigns](CURRICULUM_EVOLUTION.md)**
+Strategic plan for creating 5-7 new courses and enhancing existing courses to build a comprehensive AI leadership program.
+- Gap analysis: L-C-E levels, tracks, curricular levels
+- 3-tier implementation roadmap (Fall 2026, Spring 2027, 2028+)
+- New courses: BADM 315 (AI Governance), BADM 212 (AI Tools), BADM 410 (AI Strategy)
+- Course renaming strategy and integration opportunities
+- Competitive positioning and decision points for leadership
+
+**Audience:** Task Force Leadership, Curriculum Committee, College Leadership
+
+**Scope:** Strategic foundation for expanding beyond current 7-course core
 
 ---
 

@@ -1,3 +1,7 @@
+[Home](index.html) | [AI Strategy](AI_INTEGRATION_STRATEGY.html) | [Core Matrix](UNDERGRAD_CORE_AI_MATRIX.html) | [Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html) | [Curriculum Evolution](CURRICULUM_EVOLUTION.html) | [Courses](courses.html)
+
+---
+
 # Gies AI Integration Strategy
 
 **Status:** Active Implementation (Fall 2026 Launch) | **Updated:** January 4, 2026
@@ -127,9 +131,9 @@ Students can:
 
 ## Resources
 
-- **Full curriculum details:** See `SAMPLE_AI_LEARNING_OUTCOMES.md` and `UNDERGRAD_CORE_AI_MATRIX.md`
-- **Course syllabi:** See `courses.html` for BADM 315, 212, 350
-- **Strategic analysis:** See `BADM_350_ANALYSIS.md` (in strategy folder, not published) for BADM 350 restoration case
+- **Full curriculum details:** See [Sample AI Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.md) and [Undergraduate Core: AI Integration Matrix](UNDERGRAD_CORE_AI_MATRIX.md)
+- **Curriculum evolution:** See [Curriculum Evolution: New Courses & Course Redesigns](CURRICULUM_EVOLUTION.md) for detailed strategic plan for new course creation and course enhancements
+- **Course syllabi:** See [Course Reference](courses.md) for all extracted BADM core course syllabi
 
 ---
 
