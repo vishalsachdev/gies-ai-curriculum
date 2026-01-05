@@ -51,17 +51,33 @@ Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) usi
 
 ## Session Log
 
-### 2026-01-05 (PM) - Documentation Cleanup
+### 2026-01-05 (PM) - GitHub Pages Site Enhancements
+- **Completed:**
+  - User testing as associate dean for programs (full site flow)
+  - Added Executive Communication enhancements to home page:
+    - Executive Brief (3-minute summary: What/Why/When/Decisions)
+    - Key Decisions Required (detailed approval breakdown)
+    - Quick Start for Leadership (guided read pathway)
+  - Created `strategy/SITE_IMPROVEMENT_PLAN.md` with remaining enhancement recommendations:
+    - Visual Communication (timelines, infographics, diagrams)
+    - Decision Support & Risk Management
+    - Navigation Improvements
+    - Course Reference Enhancements
+    - Content Additions (FAQ, Success Metrics, Peer Comparison)
+    - Mobile/Accessibility improvements
+  - All changes committed and pushed to GitHub
+- **Next:**
+  - Implement high-priority quick wins from SITE_IMPROVEMENT_PLAN.md
+  - Design Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template
+  - Faculty development planning for Fall 2026
+
+### 2026-01-05 (AM) - Documentation Cleanup
 - **Completed:**
   - Fixed BADM 449 course page formatting (removed duplicate malformed schedule entries from JSON and HTML)
   - Removed "Impact Projections" section from AI Integration Strategy (streamlined document)
   - Updated AI Learning Outcomes Framework to clarify BADM 350 as "enhanced existing course" not "proposed new course"
   - Fixed critical GitHub Pages build failure (removed badm-syllabi submodule causing build errors)
   - All changes committed and pushed; GitHub Pages builds now succeeding
-- **Next:**
-  - Design Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template
-  - Faculty development planning for Fall 2026
-  - Extend outcomes to other departments (BUS, ACCY, FIN)
 
 ### 2026-01-05 (AM) - BADM 350 Synthesis
 - **Completed:**
@@ -102,6 +118,7 @@ Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) usi
 | `strategy/AI_INTEGRATION_STRATEGY.md` | Primary synthesis document |
 | `strategy/UNDERGRAD_CORE_AI_MATRIX.md` | BADM core mapping |
 | `strategy/SAMPLE_AI_LEARNING_OUTCOMES.md` | L-C-E learning outcomes |
+| `strategy/SITE_IMPROVEMENT_PLAN.md` | **GitHub Pages enhancement roadmap** (user testing feedback) |
 | `badm-syllabi/` | Syllabus extraction data |
 | `badm-syllabi/data/course_metadata.json` | 131 courses with AI status |
 | `badm-syllabi/badm350/` | BADM 350 synthesis (5 variants -> common template) |
