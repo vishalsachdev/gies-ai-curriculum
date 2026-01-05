@@ -1,9 +1,10 @@
+[Home](index.html) | [AI Strategy](AI_INTEGRATION_STRATEGY.html) | [Core Matrix](UNDERGRAD_CORE_AI_MATRIX.html) | [Learning Outcomes](SAMPLE_AI_LEARNING_OUTCOMES.html) | [Curriculum Evolution](CURRICULUM_EVOLUTION.html) | [Courses](courses.html)
+
+---
+
 # Curriculum Evolution: New Courses & Course Redesigns
 
-**Date:** January 4, 2026
-**Prepared For:** Gies AI Curriculum Task Force
-**Scope:** BADM Core Curriculum Enhancement Strategy
-**Framework:** Literacy-Competency-Expertise (L-C-E) Progression
+**Date:** January 4, 2026 | **Scope:** BADM Core Curriculum Enhancement Strategy | **Framework:** Literacy-Competency-Expertise (L-C-E) Progression
 
 ---
 
@@ -24,31 +25,53 @@ The current BADM core curriculum (7 courses) provides strong foundational AI cov
 ## 📊 Current State Analysis
 
 ### L-C-E Distribution
-| Level | Count | Courses |
-|-------|-------|---------|
-| **Literacy** | 3 | BADM 210, BADM 310, BADM 300 |
-| **Competency** | 6 | BADM 210, BADM 211, BADM 275, BADM 310, BADM 320, BADM 300, BADM 449 |
-| **Expertise** | 1 | BADM 449 |
 
-**Gap:** Only 1 expertise-level course for 4,500+ undergraduates annually.
+<table>
+<thead>
+<tr><th>Level</th><th>Count</th><th>Courses</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Literacy</strong></td><td>3</td><td>BADM 210, BADM 310, BADM 300</td></tr>
+<tr><td><strong>Competency</strong></td><td>6</td><td>BADM 210, BADM 211, BADM 275, BADM 310, BADM 320, BADM 300, BADM 449</td></tr>
+<tr><td><strong>Expertise</strong></td><td>1</td><td>BADM 449</td></tr>
+</tbody>
+</table>
+
+**⚠️ Gap:** Only 1 expertise-level course for 4,500+ undergraduates annually.
+
+---
 
 ### Track Distribution
-| Track | Count | Courses |
-|-------|-------|---------|
-| **AI Basics** | 2 | BADM 210, (no others) |
-| **Agentic Systems** | 4 | BADM 211, BADM 275, BADM 320, BADM 449 |
-| **Human Centric AI** | 2 | BADM 300, BADM 310 |
 
-**Gap:** Human Centric AI underrepresented relative to strategic importance.
+<table>
+<thead>
+<tr><th>Track</th><th>Count</th><th>Courses</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>AI Basics</strong></td><td>2</td><td>BADM 210, (no others)</td></tr>
+<tr><td><strong>Agentic Systems</strong></td><td>4</td><td>BADM 211, BADM 275, BADM 320, BADM 449</td></tr>
+<tr><td><strong>Human Centric AI</strong></td><td>2</td><td>BADM 300, BADM 310</td></tr>
+</tbody>
+</table>
+
+**⚠️ Gap:** Human Centric AI underrepresented relative to strategic importance.
+
+---
 
 ### Curricular Level Distribution
-| Level | Count | Courses |
-|-------|-------|---------|
-| **200-level (Foundation)** | 3 | BADM 210, BADM 211, BADM 275 |
-| **300-level (Intermediate)** | 3 | BADM 310, BADM 320, BADM 300 |
-| **400-level (Advanced)** | 1 | BADM 449 |
 
-**Gap:** Thin advanced course offerings; expertise pathway unclear.
+<table>
+<thead>
+<tr><th>Level</th><th>Count</th><th>Courses</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>200-level (Foundation)</strong></td><td>3</td><td>BADM 210, BADM 211, BADM 275</td></tr>
+<tr><td><strong>300-level (Intermediate)</strong></td><td>3</td><td>BADM 310, BADM 320, BADM 300</td></tr>
+<tr><td><strong>400-level (Advanced)</strong></td><td>1</td><td>BADM 449</td></tr>
+</tbody>
+</table>
+
+**⚠️ Gap:** Thin advanced course offerings; expertise pathway unclear.
 
 ---
 
