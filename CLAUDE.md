@@ -51,25 +51,30 @@ Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) usi
 
 ## Session Log
 
-### 2026-01-05 (PM) - GitHub Pages Site Enhancements
+### 2026-01-06 - Executive Communication & Content Refinements
 - **Completed:**
-  - User testing as associate dean for programs (full site flow)
+  - User testing of GitHub Pages site as associate dean for programs
   - Added Executive Communication enhancements to home page:
-    - Executive Brief (3-minute summary: What/Why/When/Decisions)
-    - Key Decisions Required (detailed approval breakdown)
-    - Quick Start for Leadership (guided read pathway)
-  - Created `strategy/SITE_IMPROVEMENT_PLAN.md` with remaining enhancement recommendations:
-    - Visual Communication (timelines, infographics, diagrams)
-    - Decision Support & Risk Management
-    - Navigation Improvements
-    - Course Reference Enhancements
-    - Content Additions (FAQ, Success Metrics, Peer Comparison)
-    - Mobile/Accessibility improvements
+    - Executive Brief (3-minute summary)
+    - Key Decisions Required section
+    - Quick Start for Leadership guide
+  - Added L-C-E Skills Progression Framework explanation to home page
+  - Removed Google partnership reference from home page (outdated)
+  - Corrected BADM 350 positioning (removed incorrect capstone references)
+  - Created `strategy/SITE_IMPROVEMENT_PLAN.md` with remaining enhancement recommendations
   - All changes committed and pushed to GitHub
 - **Next:**
   - Implement high-priority quick wins from SITE_IMPROVEMENT_PLAN.md
   - Design Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template
   - Faculty development planning for Fall 2026
+
+### 2026-01-05 (PM) - GitHub Pages Site Enhancements
+- **Completed:**
+  - Initial user testing as associate dean for programs (full site flow)
+  - Early executive communication drafts
+  - All changes committed and pushed to GitHub
+- **Next:**
+  - Continue executive communication refinements
 
 ### 2026-01-05 (AM) - Documentation Cleanup
 - **Completed:**
@@ -132,4 +137,4 @@ Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) usi
 
 ---
 
-*Last Updated: January 5, 2026 (PM)*
+*Last Updated: January 6, 2026*
