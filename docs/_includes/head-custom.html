@@ -19,9 +19,10 @@
     width: 100% !important;
     max-width: 100% !important;
     float: none !important;
+    box-sizing: border-box !important;
   }
 
-  /* Make main content full width -->
+  /* Make main content full width */
   .wrapper {
     max-width: 100%;
     margin: 0;
@@ -31,6 +32,9 @@
   /* Ensure proper spacing */
   body {
     padding: 0;
+    /* Long unbroken tokens (filenames, URLs) should wrap instead of
+       forcing the page to scroll horizontally on narrow screens. */
+    overflow-wrap: anywhere;
   }
 
   /* Ensure page content takes full width */
@@ -57,6 +61,23 @@
     z-index: 1000;
     font-weight: 500;
     line-height: 1.6;
+    /* The generic "table" rule above makes tables horizontally
+       scrollable blocks; the nav table should instead wrap its
+       links onto multiple lines so it never scrolls sideways. */
+    overflow-x: visible !important;
+  }
+
+  section > table:first-child tbody,
+  section > table:first-child tr {
+    display: flex !important;
+    flex-wrap: wrap !important;
+  }
+
+  section > table:first-child td {
+    display: inline-block !important;
+    width: auto !important;
+    white-space: nowrap;
+    padding: 6px 10px !important;
   }
 
   /* Improve heading styles */
@@ -95,6 +116,12 @@
     margin: 20px 0 !important;
     width: 100% !important;
     font-size: 0.95em !important;
+    /* Let wide tables scroll horizontally on their own instead of
+       forcing the whole page to overflow on narrow screens. */
+    display: block !important;
+    max-width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
   }
 
   table th {
@@ -158,6 +185,9 @@
     padding: 2px 6px !important;
     border-radius: 3px !important;
     font-family: 'Courier New', monospace !important;
+    /* Long unbroken inline code (file paths, etc.) should wrap
+       instead of forcing the page to scroll horizontally. */
+    overflow-wrap: anywhere !important;
   }
 
   pre {
@@ -200,5 +230,24 @@
     max-width: 1000px !important;
     margin: 0 auto !important;
     padding: 20px !important;
+  }
+
+  /* Reclaim reading width on phones */
+  @media screen and (max-width: 480px) {
+    .wrapper {
+      padding: 12px !important;
+    }
+
+    section {
+      padding: 12px !important;
+    }
+
+    section > table:first-child {
+      padding: 8px 12px !important;
+    }
+
+    h1 {
+      font-size: 1.5em !important;
+    }
   }
 </style>
