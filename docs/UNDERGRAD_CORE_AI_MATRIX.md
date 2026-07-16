@@ -6,6 +6,8 @@
 
 **Scope:** BADM Core Courses | **Target:** Fall 2026 | **Framework:** L-C-E Progression
 
+> **Rubric note (July 2026):** With the creation of the IOSA department, IS/OM/SCM/Analytics courses are transitioning from the BADM rubric to a new **IOSA rubric**, retaining current course numbers. Course numbers below reference the familiar BADM designations.
+
 ---
 
 ## Current State (7 BADM Core Courses + 1 Enhancement)

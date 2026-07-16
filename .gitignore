@@ -27,3 +27,6 @@ venv/
 
 # Separate repository (should not be committed here)
 badm-syllabi/
+
+# Local meeting prep (contains donor/internal material - never publish)
+meetings/

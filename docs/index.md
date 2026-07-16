@@ -4,7 +4,21 @@
 
 # Gies College of Business: AI Curriculum Integration
 
-**Leadership Summary** — January 2026
+**Leadership Summary** — January 2026 · *Updated July 2026*
+
+---
+
+## What's New — July 2026 Update
+
+Developments since the January 2026 leadership summary:
+
+- **IOSA rubric transition.** With the creation of the new IOSA department (Information Systems, Operations, Supply Chain, and Analytics), area courses are moving from the BADM rubric to a new **IOSA rubric**. Current plan: change the rubric now, retain existing course numbers to minimize disruption for students and advisors. Core analytics/operations courses referenced on this site (BADM 210, 211, 275) will carry the new rubric.
+- **BADM 372 repositioned (Fall 2025)** as "AI Solopreneurship & Product Building" — a studio course where students use generative AI to build and publicly launch software products. A working model for AI-native course redesign.
+- **Proposal: physical-AI build studio.** The dormant BADM 357 (Digital Making, last offered 2022) is proposed for repositioning as a human-centered **physical/embodied-AI build studio** — business students directing AI and low-cost robotics to build working physical-AI products — complementing 372's software focus. Recommendation: validate demand with one capped experimental section.
+- **MakerLab embodied-AI expansion.** The Illinois MakerLab added embodied-AI programming in Summer 2026 (AI-trained 3D-printed robot arm; Reachy Mini desktop robots programmed with Python + open-source models). All AI camps sold out. Hardware, curriculum modules, and an instructor pipeline now exist to support course-level offerings, in growing collaboration with the Disruption Lab.
+- **Gies AI for Impact Challenge (April 2026).** 24-hour build-a-thon where students built AI agents automating real business workflows using no-code tools — evidence that applied agentic-AI education works for every business major, not just technical students.
+- **MSBAi launched.** The online MS in Business Analytics launched with AI-first course design, providing graduate-level patterns reusable in undergraduate courses.
+- **Peer momentum accelerating.** Since January: Indiana Kelley redesigned its core K201 course around GenAI (its GenAI 101 has 114K+ enrollments), Chicago Booth launched an Applied AI concentration, and free vendor curricula (Google, OpenAI, Anthropic, Microsoft) now teach agentic AI at production quality — reinforcing that our differentiation is business context, cohort learning, and evaluation rigor, not tool training.
 
 ---
 
@@ -198,9 +212,9 @@ Strategic plan for creating 5-7 new courses and enhancing existing courses to bu
 | Phase | Timeline | Status |
 |-------|----------|--------|
 | **Phase 1:** Research & Planning | Completed | ✓ |
-| **Phase 2:** Curriculum Design | Q1 2026 | → YOU ARE HERE |
-| **Phase 3:** Faculty & Student Support | Q1-Q3 2026 | Pending |
-| **Phase 4:** Implementation | Fall 2026 | Pending |
+| **Phase 2:** Curriculum Design | Q1-Q2 2026 | ✓ (350 template ready; 357 studio proposed; pilot designs in progress) |
+| **Phase 3:** Faculty & Student Support | Q2-Q3 2026 | → YOU ARE HERE |
+| **Phase 4:** Implementation | Fall 2026 | Imminent |
 
 ---
 
@@ -265,6 +279,6 @@ For detailed context on strategic decisions, governance, and peer comparisons, s
 ---
 
 **Repository:** Gies AI Curriculum Integration (Leadership Documentation)
-**Date:** January 4, 2026
+**Date:** January 4, 2026 (updated July 16, 2026)
 **Prepared for:** Gies AI Curriculum Task Force + College Leadership
 **Source:** Analysis of 7 BADM core course syllabi + Campus AI Framework + Peer benchmarking research
