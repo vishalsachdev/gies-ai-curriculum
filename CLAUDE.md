@@ -14,9 +14,9 @@ This repository contains strategic planning documents, curriculum analysis, and 
 
 ## Current Focus
 
-> **Phase 2: Curriculum Design (Q1 2026)** - BADM 350 template ready, learning outcomes drafted
+> **Revived July 2026: IOSA core AI integration (Gopesh meeting)** — dept head requested ideas/material on incorporating AI into BADM 210, 211, 275 and beyond, plus Maker Lab's role in AI education. Briefing: `meetings/2026-07-gopesh-iosa/briefing.md` (gitignored — contains donor/internal material).
 
-Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template.
+Next priority: Schedule 60-min slot on Gopesh's calendar (reply sent 2026-07-16 with site link); prep from briefing before the meeting; then design Fall 2026 pilot courses (BADM 211, 275, 310, 320) using BADM 350 as template.
 
 ---
 
@@ -51,64 +51,21 @@ Next priority: Design remaining Fall 2026 pilot courses (BADM 211, 310, 320) usi
 
 ## Session Log
 
-### 2026-01-06 - Executive Communication & Content Refinements
+### 2026-07-16
 - **Completed:**
-  - User testing of GitHub Pages site as associate dean for programs
-  - Added Executive Communication enhancements to home page:
-    - Executive Brief (3-minute summary)
-    - Key Decisions Required section
-    - Quick Start for Leadership guide
-  - Added L-C-E Skills Progression Framework explanation to home page
-  - Removed Google partnership reference from home page (outdated)
-  - Corrected BADM 350 positioning (removed incorrect capstone references)
-  - Created `strategy/SITE_IMPROVEMENT_PLAN.md` with remaining enhancement recommendations
-  - All changes committed and pushed to GitHub
+  - Revived repo for Gopesh (dept head) request: ideas/material on AI in IOSA core (BADM 210/211/275) + Maker Lab role in AI education
+  - Built consolidated meeting briefing at `meetings/2026-07-gopesh-iosa/briefing.md` (gitignored): course matrix answers, peer/competitor scans, own-course research evidence, Maker Lab embodied-AI angle, mechanisms (AI Fellows), promotion-service framing, and Ocasio/Love alignment talking points (Direct/Reconfigure/Judge loop, expertise gap, BUS 101-401 spine mapping - INTERNAL ONLY, never cite publicly)
+  - Recovered BADM357_Repositioning_Proposal.docx from Sent Items; copied reference docs (Fisher pitch, peer scans) into meeting folder
+  - Refreshed GitHub Pages site (July 2026 update section, IOSA rubric note, timeline fix) - pushed and verified live
+  - Drafted + sent reply to Gopesh (Thunderbird in-thread) with site link; paste-ready copy at `meetings/2026-07-gopesh-iosa/reply-to-gopesh.txt`
 - **Next:**
-  - Implement high-priority quick wins from SITE_IMPROVEMENT_PLAN.md
-  - Design Fall 2026 pilot courses (BADM 211, 310, 320) using BADM 350 as template
-  - Faculty development planning for Fall 2026
+  - Schedule 60-min meeting on Gopesh's calendar; prep 60-min arc from briefing section "Suggested meeting arc"
+  - After meeting: log outcome in `~/admin/associate-2026-promotion/` (out-of-role service evidence)
+  - Pending from ocasio workstream: Willie's OK before any public use of "Gies Approach" draft language
+  - Untracked `AGENTS.md` (generic stub, Apr 2026) - decide commit or remove
 
-### 2026-01-05 (PM) - GitHub Pages Site Enhancements
-- **Completed:**
-  - Initial user testing as associate dean for programs (full site flow)
-  - Early executive communication drafts
-  - All changes committed and pushed to GitHub
-- **Next:**
-  - Continue executive communication refinements
+*Older entries archived to `internal/session-archive.md`*
 
-### 2026-01-05 (AM) - Documentation Cleanup
-- **Completed:**
-  - Fixed BADM 449 course page formatting (removed duplicate malformed schedule entries from JSON and HTML)
-  - Removed "Impact Projections" section from AI Integration Strategy (streamlined document)
-  - Updated AI Learning Outcomes Framework to clarify BADM 350 as "enhanced existing course" not "proposed new course"
-  - Fixed critical GitHub Pages build failure (removed badm-syllabi submodule causing build errors)
-  - All changes committed and pushed; GitHub Pages builds now succeeding
-
-### 2026-01-05 (AM) - BADM 350 Synthesis
-- **Completed:**
-  - BADM 350 syllabus synthesis across 5 instructor variants (Ghoshal, Gokhale, Pant, Sachdev, Subramanyam)
-  - Course renamed: "IT & AI Strategy for Competitive Advantage" -> "Technology and AI Strategy"
-  - Created common template: `badm-syllabi/badm350/data/extracted_llm/badm350_common_template.json`
-    - 7 L-C-E balanced learning objectives
-    - 16-week schedule with 3-week AI module (weeks 13-15)
-    - Assessment: 45% exams, 20% project, 20% assignments, 15% participation
-  - Updated BADM_350_REDESIGN.md with synthesis findings
-  - Updated CURRICULUM_EVOLUTION.md (replaced BADM 410 proposal with BADM 350 enhancement)
-  - UNDERGRAD_CORE_AI_MATRIX.md: BADM 350 marked "Template Ready"
-  - 3 commits pushed to GitHub
-
-### 2026-01-04
-- **Completed:**
-  - AI curriculum integration matrix for BADM core (7 courses)
-  - Sample L-C-E learning outcomes document
-  - Leadership documentation (cover page + course reference)
-  - GitHub Pages site: https://vishalsachdev.github.io/gies-ai-curriculum/
-  - Updated course_metadata.json with official core + AI status
-  - Added is_core flag to 131 extracted syllabi JSON files
-- **Next:**
-  - Faculty development planning for Fall 2026
-  - Extend learning outcomes to other departments
-  - Develop specific module designs for high-priority courses
 
 ---
 
